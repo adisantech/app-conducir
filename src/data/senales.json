@@ -1,0 +1,5490 @@
+[
+  {
+    "id": "sig-001",
+    "name": "PARE",
+    "category": "Reglamentarias",
+    "page": 150,
+    "imageUrl": "/signs/catalog/p150-r1-c1.png",
+    "sourceKey": "p150-r1-c1",
+    "source": {
+      "page": 150,
+      "row": 1,
+      "column": 1,
+      "image": "public/pages/page-150.jpg",
+      "crop": [
+        82,
+        508,
+        150,
+        125
+      ],
+      "captionBounds": [
+        141.482,
+        638.772,
+        177.803,
+        662.372
+      ],
+      "caption": "PARE",
+      "displayCaption": "PARE"
+    }
+  },
+  {
+    "id": "sig-002",
+    "name": "CEDA EL PASO",
+    "category": "Reglamentarias",
+    "page": 150,
+    "imageUrl": "/signs/catalog/p150-r1-c2.png",
+    "sourceKey": "p150-r1-c2",
+    "source": {
+      "page": 150,
+      "row": 1,
+      "column": 2,
+      "image": "public/pages/page-150.jpg",
+      "crop": [
+        259,
+        508,
+        150,
+        125
+      ],
+      "captionBounds": [
+        282.915,
+        638.772,
+        384.858,
+        662.372
+      ],
+      "caption": "CEDA EL PASO",
+      "displayCaption": "CEDA EL PASO"
+    }
+  },
+  {
+    "id": "sig-003",
+    "name": "PARE NIÑOS",
+    "category": "Reglamentarias",
+    "page": 150,
+    "imageUrl": "/signs/catalog/p150-r1-c3.png",
+    "sourceKey": "p150-r1-c3",
+    "source": {
+      "page": 150,
+      "row": 1,
+      "column": 3,
+      "image": "public/pages/page-150.jpg",
+      "crop": [
+        436,
+        508,
+        150,
+        125
+      ],
+      "captionBounds": [
+        467.872,
+        638.772,
+        554.978,
+        662.372
+      ],
+      "caption": "PARE NIÑOS",
+      "displayCaption": "PARE NIÑOS"
+    }
+  },
+  {
+    "id": "sig-004",
+    "name": "NO ENTRAR",
+    "category": "Reglamentarias",
+    "page": 150,
+    "imageUrl": "/signs/catalog/p150-r1-c4.png",
+    "sourceKey": "p150-r1-c4",
+    "source": {
+      "page": 150,
+      "row": 1,
+      "column": 4,
+      "image": "public/pages/page-150.jpg",
+      "crop": [
+        613,
+        508,
+        150,
+        125
+      ],
+      "captionBounds": [
+        646.103,
+        638.772,
+        728.757,
+        662.372
+      ],
+      "caption": "NO ENTRAR",
+      "displayCaption": "NO ENTRAR"
+    }
+  },
+  {
+    "id": "sig-005",
+    "name": "NO VIRAR IZQUIERDA",
+    "category": "Reglamentarias",
+    "page": 150,
+    "imageUrl": "/signs/catalog/p150-r1-c5.png",
+    "sourceKey": "p150-r1-c5",
+    "source": {
+      "page": 150,
+      "row": 1,
+      "column": 5,
+      "image": "public/pages/page-150.jpg",
+      "crop": [
+        790,
+        508,
+        150,
+        125
+      ],
+      "captionBounds": [
+        824.52,
+        638.772,
+        904.377,
+        682.372
+      ],
+      "caption": "NO VIRAR IZQUIERDA",
+      "displayCaption": "NO VIRAR IZQUIERDA"
+    }
+  },
+  {
+    "id": "sig-006",
+    "name": "NO VIRAR DERECHA",
+    "category": "Reglamentarias",
+    "page": 150,
+    "imageUrl": "/signs/catalog/p150-r2-c1.png",
+    "sourceKey": "p150-r2-c1",
+    "source": {
+      "page": 150,
+      "row": 2,
+      "column": 1,
+      "image": "public/pages/page-150.jpg",
+      "crop": [
+        82,
+        716,
+        150,
+        122
+      ],
+      "captionBounds": [
+        123.805,
+        843.995,
+        193.341,
+        887.595
+      ],
+      "caption": "NO VIRAR DERECHA",
+      "displayCaption": "NO VIRAR DERECHA"
+    }
+  },
+  {
+    "id": "sig-007",
+    "name": "NO VIRAR EN U",
+    "category": "Reglamentarias",
+    "page": 150,
+    "imageUrl": "/signs/catalog/p150-r2-c2.png",
+    "sourceKey": "p150-r2-c2",
+    "source": {
+      "page": 150,
+      "row": 2,
+      "column": 2,
+      "image": "public/pages/page-150.jpg",
+      "crop": [
+        259,
+        716,
+        150,
+        122
+      ],
+      "captionBounds": [
+        281.453,
+        843.995,
+        388.957,
+        867.595
+      ],
+      "caption": "NO VIRAR EN U",
+      "displayCaption": "NO VIRAR EN U"
+    }
+  },
+  {
+    "id": "sig-008",
+    "name": "NO ADELANTAR",
+    "category": "Reglamentarias",
+    "page": 150,
+    "imageUrl": "/signs/catalog/p150-r2-c3.png",
+    "sourceKey": "p150-r2-c3",
+    "source": {
+      "page": 150,
+      "row": 2,
+      "column": 3,
+      "image": "public/pages/page-150.jpg",
+      "crop": [
+        436,
+        716,
+        150,
+        122
+      ],
+      "captionBounds": [
+        456.548,
+        843.995,
+        568.418,
+        867.595
+      ],
+      "caption": "NO ADELANTAR",
+      "displayCaption": "NO ADELANTAR"
+    }
+  },
+  {
+    "id": "sig-009",
+    "name": "NO CAMBIAR DE PISTA",
+    "category": "Reglamentarias",
+    "page": 150,
+    "imageUrl": "/signs/catalog/p150-r2-c4.png",
+    "sourceKey": "p150-r2-c4",
+    "source": {
+      "page": 150,
+      "row": 2,
+      "column": 4,
+      "image": "public/pages/page-150.jpg",
+      "crop": [
+        613,
+        716,
+        150,
+        122
+      ],
+      "captionBounds": [
+        641.39,
+        843.995,
+        735.59,
+        887.595
+      ],
+      "caption": "NO CAMBIAR DE PISTA",
+      "displayCaption": "NO CAMBIAR DE PISTA"
+    }
+  },
+  {
+    "id": "sig-010",
+    "name": "PREFERENCIA CICLISTAS AL VIRAR DERECHA",
+    "category": "Reglamentarias",
+    "page": 150,
+    "imageUrl": "/signs/catalog/p150-r2-c5.png",
+    "sourceKey": "p150-r2-c5",
+    "source": {
+      "page": 150,
+      "row": 2,
+      "column": 5,
+      "image": "public/pages/page-150.jpg",
+      "crop": [
+        790,
+        716,
+        150,
+        122
+      ],
+      "captionBounds": [
+        801.782,
+        844.44,
+        929.909,
+        902.347
+      ],
+      "caption": "PREFERENCIA CICLISTAS AL VIRAR DERECHA",
+      "displayCaption": "PREFERENCIA CICLISTAS AL VIRAR DERECHA"
+    }
+  },
+  {
+    "id": "sig-011",
+    "name": "PREFERENCIA CICLISTAS AL VIRAR IZQUIERDA",
+    "category": "Reglamentarias",
+    "page": 150,
+    "imageUrl": "/signs/catalog/p150-r3-c1.png",
+    "sourceKey": "p150-r3-c1",
+    "source": {
+      "page": 150,
+      "row": 3,
+      "column": 1,
+      "image": "public/pages/page-150.jpg",
+      "crop": [
+        82,
+        938,
+        150,
+        122
+      ],
+      "captionBounds": [
+        93.438,
+        1066.302,
+        221.565,
+        1124.208
+      ],
+      "caption": "PREFERENCIA CICLISTAS AL VIRAR IZQUIERDA",
+      "displayCaption": "PREFERENCIA CICLISTAS AL VIRAR IZQUIERDA"
+    }
+  },
+  {
+    "id": "sig-012",
+    "name": "PREFERENCIA CICLISTAS AL CAMBIAR DE PISTA",
+    "category": "Reglamentarias",
+    "page": 150,
+    "imageUrl": "/signs/catalog/p150-r3-c2.png",
+    "sourceKey": "p150-r3-c2",
+    "source": {
+      "page": 150,
+      "row": 3,
+      "column": 2,
+      "image": "public/pages/page-150.jpg",
+      "crop": [
+        259,
+        938,
+        150,
+        122
+      ],
+      "captionBounds": [
+        266.42,
+        1065.857,
+        401.86,
+        1129.457
+      ],
+      "caption": "PREFERENCIA CICLISTAS AL CAMBIAR DE PISTA",
+      "displayCaption": "PREFERENCIA CICLISTAS AL CAMBIAR DE PISTA"
+    }
+  },
+  {
+    "id": "sig-p150-r3-c3",
+    "name": "PREFERENCIA CICLISTAS AL CAMBIAR DE PISTA",
+    "category": "Reglamentarias",
+    "page": 150,
+    "imageUrl": "/signs/catalog/p150-r3-c3.png",
+    "sourceKey": "p150-r3-c3",
+    "source": {
+      "page": 150,
+      "row": 3,
+      "column": 3,
+      "image": "public/pages/page-150.jpg",
+      "crop": [
+        436,
+        938,
+        150,
+        122
+      ],
+      "captionBounds": [
+        443.695,
+        1065.857,
+        579.135,
+        1129.457
+      ],
+      "caption": "PREFERENCIA CICLISTAS AL CAMBIAR DE PISTA",
+      "displayCaption": "PREFERENCIA CICLISTAS AL CAMBIAR DE PISTA"
+    }
+  },
+  {
+    "id": "sig-013",
+    "name": "PROHIBIDA CIRCULACIÓN DE VEHÍCULOS DE CARGA",
+    "category": "Reglamentarias",
+    "page": 150,
+    "imageUrl": "/signs/catalog/p150-r3-c4.png",
+    "sourceKey": "p150-r3-c4",
+    "source": {
+      "page": 150,
+      "row": 3,
+      "column": 4,
+      "image": "public/pages/page-150.jpg",
+      "crop": [
+        613,
+        938,
+        150,
+        122
+      ],
+      "captionBounds": [
+        639.693,
+        1066.302,
+        735.009,
+        1142.542
+      ],
+      "caption": "PROHIBIDA CIRCULACIÓN DE VEHÍCULOS DE CARGA",
+      "displayCaption": "PROHIBIDA CIRCULACIÓN DE VEHÍCULOS DE CARGA"
+    }
+  },
+  {
+    "id": "sig-014",
+    "name": "PROHIBIDA CIRCULACIÓN DE VEHÍCULOS MOTORIZADOS",
+    "category": "Reglamentarias",
+    "page": 150,
+    "imageUrl": "/signs/catalog/p150-r3-c5.png",
+    "sourceKey": "p150-r3-c5",
+    "source": {
+      "page": 150,
+      "row": 3,
+      "column": 5,
+      "image": "public/pages/page-150.jpg",
+      "crop": [
+        790,
+        938,
+        150,
+        122
+      ],
+      "captionBounds": [
+        816.582,
+        1066.797,
+        913.686,
+        1143.037
+      ],
+      "caption": "PROHIBIDA CIRCULACIÓN DE VEHÍCULOS MOTORIZADOS",
+      "displayCaption": "PROHIBIDA CIRCULACIÓN DE VEHÍCULOS MOTORIZADOS"
+    }
+  },
+  {
+    "id": "sig-015",
+    "name": "PROHIBIDA CIRCULACIÓN DE CARROS DE MANO",
+    "category": "Reglamentarias",
+    "page": 151,
+    "imageUrl": "/signs/catalog/p151-r1-c1.png",
+    "sourceKey": "p151-r1-c1",
+    "source": {
+      "page": 151,
+      "row": 1,
+      "column": 1,
+      "image": "public/pages/page-151.jpg",
+      "crop": [
+        82,
+        144,
+        150,
+        123
+      ],
+      "captionBounds": [
+        113.109,
+        273.238,
+        202.95,
+        349.478
+      ],
+      "caption": "PROHIBIDA CIRCULACIÓN DE CARROS DE MANO",
+      "displayCaption": "PROHIBIDA CIRCULACIÓN DE CARROS DE MANO"
+    }
+  },
+  {
+    "id": "sig-016",
+    "name": "PROHIBIDA CIRCULACIÓN DE BUSES",
+    "category": "Reglamentarias",
+    "page": 151,
+    "imageUrl": "/signs/catalog/p151-r1-c2.png",
+    "sourceKey": "p151-r1-c2",
+    "source": {
+      "page": 151,
+      "row": 1,
+      "column": 2,
+      "image": "public/pages/page-151.jpg",
+      "crop": [
+        259,
+        144,
+        150,
+        123
+      ],
+      "captionBounds": [
+        283.693,
+        272.793,
+        383.517,
+        336.393
+      ],
+      "caption": "PROHIBIDA CIRCULACIÓN DE BUSES",
+      "displayCaption": "PROHIBIDA CIRCULACIÓN DE BUSES"
+    }
+  },
+  {
+    "id": "sig-017",
+    "name": "PROHIBIDA CIRCULACIÓN DE BICICLETAS",
+    "category": "Reglamentarias",
+    "page": 151,
+    "imageUrl": "/signs/catalog/p151-r1-c3.png",
+    "sourceKey": "p151-r1-c3",
+    "source": {
+      "page": 151,
+      "row": 1,
+      "column": 3,
+      "image": "public/pages/page-151.jpg",
+      "crop": [
+        436,
+        144,
+        150,
+        123
+      ],
+      "captionBounds": [
+        457.942,
+        272.793,
+        563.815,
+        336.393
+      ],
+      "caption": "PROHIBIDA CIRCULACIÓN DE BICICLETAS",
+      "displayCaption": "PROHIBIDA CIRCULACIÓN DE BICICLETAS"
+    }
+  },
+  {
+    "id": "sig-018",
+    "name": "PROHIBIDA CIRCULACIÓN DE MOTOCICLETAS",
+    "category": "Reglamentarias",
+    "page": 151,
+    "imageUrl": "/signs/catalog/p151-r1-c4.png",
+    "sourceKey": "p151-r1-c4",
+    "source": {
+      "page": 151,
+      "row": 1,
+      "column": 4,
+      "image": "public/pages/page-151.jpg",
+      "crop": [
+        613,
+        144,
+        150,
+        123
+      ],
+      "captionBounds": [
+        619.768,
+        272.793,
+        753.998,
+        336.393
+      ],
+      "caption": "PROHIBIDA CIRCULACIÓN DE MOTOCICLETAS",
+      "displayCaption": "PROHIBIDA CIRCULACIÓN DE MOTOCICLETAS"
+    }
+  },
+  {
+    "id": "sig-019",
+    "name": "PROHIBIDA CIRCULACIÓN DE MAQUINARIA AGRÍCOLA",
+    "category": "Reglamentarias",
+    "page": 151,
+    "imageUrl": "/signs/catalog/p151-r1-c5.png",
+    "sourceKey": "p151-r1-c5",
+    "source": {
+      "page": 151,
+      "row": 1,
+      "column": 5,
+      "image": "public/pages/page-151.jpg",
+      "crop": [
+        790,
+        144,
+        150,
+        123
+      ],
+      "captionBounds": [
+        809.958,
+        273.238,
+        917.841,
+        349.478
+      ],
+      "caption": "PROHIBIDA CIRCULACIÓN DE MAQUINARIA AGRÍCOLA",
+      "displayCaption": "PROHIBIDA CIRCULACIÓN DE MAQUINARIA AGRÍCOLA"
+    }
+  },
+  {
+    "id": "sig-020",
+    "name": "PROHIBIDA CIRCULACIÓN DE VEHÍCULOS DE TRACCIÓN ANIMAL",
+    "category": "Reglamentarias",
+    "page": 151,
+    "imageUrl": "/signs/catalog/p151-r2-c1.png",
+    "sourceKey": "p151-r2-c1",
+    "source": {
+      "page": 151,
+      "row": 2,
+      "column": 1,
+      "image": "public/pages/page-151.jpg",
+      "crop": [
+        82,
+        384,
+        150,
+        123
+      ],
+      "captionBounds": [
+        95.146,
+        512.788,
+        217.885,
+        589.028
+      ],
+      "caption": "PROHIBIDA CIRCULACIÓN DE VEHÍCULOS DE TRACCIÓN ANIMAL",
+      "displayCaption": "PROHIBIDA CIRCULACIÓN DE VEHÍCULOS DE TRACCIÓN ANIMAL"
+    }
+  },
+  {
+    "id": "sig-021",
+    "name": "SILENCIO",
+    "category": "Reglamentarias",
+    "page": 151,
+    "imageUrl": "/signs/catalog/p151-r2-c2.png",
+    "sourceKey": "p151-r2-c2",
+    "source": {
+      "page": 151,
+      "row": 2,
+      "column": 2,
+      "image": "public/pages/page-151.jpg",
+      "crop": [
+        259,
+        384,
+        150,
+        123
+      ],
+      "captionBounds": [
+        298.288,
+        512.343,
+        366.422,
+        535.943
+      ],
+      "caption": "SILENCIO",
+      "displayCaption": "SILENCIO"
+    }
+  },
+  {
+    "id": "sig-022",
+    "name": "NO BLOQUEAR CRUCE",
+    "category": "Reglamentarias",
+    "page": 151,
+    "imageUrl": "/signs/catalog/p151-r2-c3.png",
+    "sourceKey": "p151-r2-c3",
+    "source": {
+      "page": 151,
+      "row": 2,
+      "column": 3,
+      "image": "public/pages/page-151.jpg",
+      "crop": [
+        436,
+        384,
+        150,
+        123
+      ],
+      "captionBounds": [
+        457.612,
+        512.343,
+        561.465,
+        555.943
+      ],
+      "caption": "NO BLOQUEAR CRUCE",
+      "displayCaption": "NO BLOQUEAR CRUCE"
+    }
+  },
+  {
+    "id": "sig-023",
+    "name": "PROHIBIDO ESTACIONAR Y DETENERSE",
+    "category": "Reglamentarias",
+    "page": 151,
+    "imageUrl": "/signs/catalog/p151-r2-c4.png",
+    "sourceKey": "p151-r2-c4",
+    "source": {
+      "page": 151,
+      "row": 2,
+      "column": 4,
+      "image": "public/pages/page-151.jpg",
+      "crop": [
+        613,
+        384,
+        150,
+        123
+      ],
+      "captionBounds": [
+        633.48,
+        512.343,
+        737.277,
+        575.943
+      ],
+      "caption": "PROHIBIDO ESTACIONAR Y DETENERSE",
+      "displayCaption": "PROHIBIDO ESTACIONAR Y DETENERSE"
+    }
+  },
+  {
+    "id": "sig-024",
+    "name": "PROHIBIDO ESTACIONAR",
+    "category": "Reglamentarias",
+    "page": 151,
+    "imageUrl": "/signs/catalog/p151-r2-c5.png",
+    "sourceKey": "p151-r2-c5",
+    "source": {
+      "page": 151,
+      "row": 2,
+      "column": 5,
+      "image": "public/pages/page-151.jpg",
+      "crop": [
+        790,
+        384,
+        150,
+        123
+      ],
+      "captionBounds": [
+        817.382,
+        512.26,
+        907.878,
+        555.86
+      ],
+      "caption": "PROHIBIDO ESTACIONAR",
+      "displayCaption": "PROHIBIDO ESTACIONAR"
+    }
+  },
+  {
+    "id": "sig-p151-r3-c1",
+    "name": "PROHIBIDO ESTACIONAR",
+    "category": "Reglamentarias",
+    "page": 151,
+    "imageUrl": "/signs/catalog/p151-r3-c1.png",
+    "sourceKey": "p151-r3-c1",
+    "source": {
+      "page": 151,
+      "row": 3,
+      "column": 1,
+      "image": "public/pages/page-151.jpg",
+      "crop": [
+        82,
+        624,
+        150,
+        124
+      ],
+      "captionBounds": [
+        110.897,
+        753.558,
+        201.394,
+        797.158
+      ],
+      "caption": "PROHIBIDO ESTACIONAR",
+      "displayCaption": "PROHIBIDO ESTACIONAR"
+    }
+  },
+  {
+    "id": "sig-025",
+    "name": "NO PEATONES",
+    "category": "Reglamentarias",
+    "page": 151,
+    "imageUrl": "/signs/catalog/p151-r3-c2.png",
+    "sourceKey": "p151-r3-c2",
+    "source": {
+      "page": 151,
+      "row": 3,
+      "column": 2,
+      "image": "public/pages/page-151.jpg",
+      "crop": [
+        259,
+        624,
+        150,
+        124
+      ],
+      "captionBounds": [
+        283.747,
+        753.558,
+        383.088,
+        777.158
+      ],
+      "caption": "NO PEATONES",
+      "displayCaption": "NO PEATONES"
+    }
+  },
+  {
+    "id": "sig-026",
+    "name": "VELOCIDAD MÁXIMA",
+    "category": "Reglamentarias",
+    "page": 151,
+    "imageUrl": "/signs/catalog/p151-r3-c3.png",
+    "sourceKey": "p151-r3-c3",
+    "source": {
+      "page": 151,
+      "row": 3,
+      "column": 3,
+      "image": "public/pages/page-151.jpg",
+      "crop": [
+        436,
+        624,
+        150,
+        124
+      ],
+      "captionBounds": [
+        467.488,
+        753.558,
+        551.362,
+        797.158
+      ],
+      "caption": "VELOCIDAD MÁXIMA",
+      "displayCaption": "VELOCIDAD MÁXIMA"
+    }
+  },
+  {
+    "id": "sig-027",
+    "name": "VELOCIDAD MÍNIMA",
+    "category": "Reglamentarias",
+    "page": 151,
+    "imageUrl": "/signs/catalog/p151-r3-c4.png",
+    "sourceKey": "p151-r3-c4",
+    "source": {
+      "page": 151,
+      "row": 3,
+      "column": 4,
+      "image": "public/pages/page-151.jpg",
+      "crop": [
+        613,
+        624,
+        150,
+        124
+      ],
+      "captionBounds": [
+        644.505,
+        753.558,
+        728.378,
+        797.158
+      ],
+      "caption": "VELOCIDAD MÍNIMA",
+      "displayCaption": "VELOCIDAD MÍNIMA"
+    }
+  },
+  {
+    "id": "sig-028",
+    "name": "VELOCIDAD MÁXIMA ZONA 30",
+    "category": "Reglamentarias",
+    "page": 151,
+    "imageUrl": "/signs/catalog/p151-r3-c5.png",
+    "sourceKey": "p151-r3-c5",
+    "source": {
+      "page": 151,
+      "row": 3,
+      "column": 5,
+      "image": "public/pages/page-151.jpg",
+      "crop": [
+        790,
+        624,
+        150,
+        124
+      ],
+      "captionBounds": [
+        796.217,
+        752.8,
+        927.807,
+        796.4
+      ],
+      "caption": "VELOCIDAD MÁXIMA ZONA 30",
+      "displayCaption": "VELOCIDAD MÁXIMA ZONA 30"
+    }
+  },
+  {
+    "id": "sig-029",
+    "name": "LARGO MÁXIMO",
+    "category": "Reglamentarias",
+    "page": 151,
+    "imageUrl": "/signs/catalog/p151-r4-c1.png",
+    "sourceKey": "p151-r4-c1",
+    "source": {
+      "page": 151,
+      "row": 4,
+      "column": 1,
+      "image": "public/pages/page-151.jpg",
+      "crop": [
+        82,
+        833,
+        150,
+        124
+      ],
+      "captionBounds": [
+        97.888,
+        963.708,
+        215.145,
+        987.308
+      ],
+      "caption": "LARGO MÁXIMO",
+      "displayCaption": "LARGO MÁXIMO"
+    }
+  },
+  {
+    "id": "sig-030",
+    "name": "PESO MÁXIMO PERMITIDO",
+    "category": "Reglamentarias",
+    "page": 151,
+    "imageUrl": "/signs/catalog/p151-r4-c2.png",
+    "sourceKey": "p151-r4-c2",
+    "source": {
+      "page": 151,
+      "row": 4,
+      "column": 2,
+      "image": "public/pages/page-151.jpg",
+      "crop": [
+        259,
+        833,
+        150,
+        124
+      ],
+      "captionBounds": [
+        281.427,
+        962.528,
+        387.015,
+        1006.128
+      ],
+      "caption": "PESO MÁXIMO PERMITIDO",
+      "displayCaption": "PESO MÁXIMO PERMITIDO"
+    }
+  },
+  {
+    "id": "sig-031",
+    "name": "PESO MÁXIMO POR EJE",
+    "category": "Reglamentarias",
+    "page": 151,
+    "imageUrl": "/signs/catalog/p151-r4-c3.png",
+    "sourceKey": "p151-r4-c3",
+    "source": {
+      "page": 151,
+      "row": 4,
+      "column": 3,
+      "image": "public/pages/page-151.jpg",
+      "crop": [
+        436,
+        833,
+        150,
+        124
+      ],
+      "captionBounds": [
+        457.64,
+        962.528,
+        563.228,
+        1006.128
+      ],
+      "caption": "PESO MÁXIMO POR EJE",
+      "displayCaption": "PESO MÁXIMO POR EJE"
+    }
+  },
+  {
+    "id": "sig-032",
+    "name": "ALTURA MÁXIMA",
+    "category": "Reglamentarias",
+    "page": 151,
+    "imageUrl": "/signs/catalog/p151-r4-c4.png",
+    "sourceKey": "p151-r4-c4",
+    "source": {
+      "page": 151,
+      "row": 4,
+      "column": 4,
+      "image": "public/pages/page-151.jpg",
+      "crop": [
+        613,
+        833,
+        150,
+        124
+      ],
+      "captionBounds": [
+        654.777,
+        962.528,
+        718.113,
+        1006.128
+      ],
+      "caption": "ALTURA MÁXIMA",
+      "displayCaption": "ALTURA MÁXIMA"
+    }
+  },
+  {
+    "id": "sig-033",
+    "name": "ANCHO MÁXIMO",
+    "category": "Reglamentarias",
+    "page": 151,
+    "imageUrl": "/signs/catalog/p151-r4-c5.png",
+    "sourceKey": "p151-r4-c5",
+    "source": {
+      "page": 151,
+      "row": 4,
+      "column": 5,
+      "image": "public/pages/page-151.jpg",
+      "crop": [
+        790,
+        833,
+        150,
+        124
+      ],
+      "captionBounds": [
+        831.295,
+        962.528,
+        895.632,
+        1006.128
+      ],
+      "caption": "ANCHO MÁXIMO",
+      "displayCaption": "ANCHO MÁXIMO"
+    }
+  },
+  {
+    "id": "sig-034",
+    "name": "FIN PROHIBICIÓN O RESTRICCIÓN",
+    "category": "Reglamentarias",
+    "page": 151,
+    "imageUrl": "/signs/catalog/p151-r5-c1.png",
+    "sourceKey": "p151-r5-c1",
+    "source": {
+      "page": 151,
+      "row": 5,
+      "column": 1,
+      "image": "public/pages/page-151.jpg",
+      "crop": [
+        82,
+        1040,
+        150,
+        123
+      ],
+      "captionBounds": [
+        87.675,
+        1168.227,
+        227.228,
+        1211.827
+      ],
+      "caption": "FIN PROHIBICIÓN O RESTRICCIÓN",
+      "displayCaption": "FIN PROHIBICIÓN O RESTRICCIÓN"
+    }
+  },
+  {
+    "id": "sig-035",
+    "name": "SOLO TELEVÍA O SISTEMA COMPLEMENTARIO",
+    "category": "Reglamentarias",
+    "page": 151,
+    "imageUrl": "/signs/catalog/p151-r5-c2.png",
+    "sourceKey": "p151-r5-c2",
+    "source": {
+      "page": 151,
+      "row": 5,
+      "column": 2,
+      "image": "public/pages/page-151.jpg",
+      "crop": [
+        259,
+        1040,
+        150,
+        123
+      ],
+      "captionBounds": [
+        272.708,
+        1168.672,
+        396.764,
+        1226.579
+      ],
+      "caption": "SOLO TELEVÍA O SISTEMA COMPLEMENTARIO",
+      "displayCaption": "SOLO TELEVÍA O SISTEMA COMPLEMENTARIO"
+    }
+  },
+  {
+    "id": "sig-036",
+    "name": "TRÁNSITO EN UN SOLO SENTIDO",
+    "category": "Reglamentarias",
+    "page": 151,
+    "imageUrl": "/signs/catalog/p151-r5-c3.png",
+    "sourceKey": "p151-r5-c3",
+    "source": {
+      "page": 151,
+      "row": 5,
+      "column": 3,
+      "image": "public/pages/page-151.jpg",
+      "crop": [
+        436,
+        1040,
+        150,
+        123
+      ],
+      "captionBounds": [
+        450.752,
+        1168.227,
+        570.725,
+        1211.827
+      ],
+      "caption": "TRÁNSITO EN UN SOLO SENTIDO",
+      "displayCaption": "TRÁNSITO EN UN SOLO SENTIDO"
+    }
+  },
+  {
+    "id": "sig-037",
+    "name": "TRÁNSITO EN AMBOS SENTIDOS",
+    "category": "Reglamentarias",
+    "page": 151,
+    "imageUrl": "/signs/catalog/p151-r5-c4.png",
+    "sourceKey": "p151-r5-c4",
+    "source": {
+      "page": 151,
+      "row": 5,
+      "column": 4,
+      "image": "public/pages/page-151.jpg",
+      "crop": [
+        613,
+        1040,
+        150,
+        123
+      ],
+      "captionBounds": [
+        622.495,
+        1168.227,
+        753.018,
+        1211.827
+      ],
+      "caption": "TRÁNSITO EN AMBOS SENTIDOS",
+      "displayCaption": "TRÁNSITO EN AMBOS SENTIDOS"
+    }
+  },
+  {
+    "id": "sig-038",
+    "name": "TRÁNSITO PEATONAL",
+    "category": "Reglamentarias",
+    "page": 151,
+    "imageUrl": "/signs/catalog/p151-r5-c5.png",
+    "sourceKey": "p151-r5-c5",
+    "source": {
+      "page": 151,
+      "row": 5,
+      "column": 5,
+      "image": "public/pages/page-151.jpg",
+      "crop": [
+        790,
+        1040,
+        150,
+        123
+      ],
+      "captionBounds": [
+        824.785,
+        1169.224,
+        899.258,
+        1212.824
+      ],
+      "caption": "TRÁNSITO PEATONAL",
+      "displayCaption": "TRÁNSITO PEATONAL"
+    }
+  },
+  {
+    "id": "sig-039",
+    "name": "TRÁNSITO DE PEATONES",
+    "category": "Reglamentarias",
+    "page": 152,
+    "imageUrl": "/signs/catalog/p152-r1-c1.png",
+    "sourceKey": "p152-r1-c1",
+    "source": {
+      "page": 152,
+      "row": 1,
+      "column": 1,
+      "image": "public/pages/page-152.jpg",
+      "crop": [
+        82,
+        151,
+        150,
+        124
+      ],
+      "captionBounds": [
+        108.252,
+        280.343,
+        202.658,
+        323.943
+      ],
+      "caption": "TRÁNSITO DE PEATONES",
+      "displayCaption": "TRÁNSITO DE PEATONES"
+    }
+  },
+  {
+    "id": "sig-040",
+    "name": "MANTENGA SU DERECHA",
+    "category": "Reglamentarias",
+    "page": 152,
+    "imageUrl": "/signs/catalog/p152-r1-c2.png",
+    "sourceKey": "p152-r1-c2",
+    "source": {
+      "page": 152,
+      "row": 1,
+      "column": 2,
+      "image": "public/pages/page-152.jpg",
+      "crop": [
+        259,
+        151,
+        150,
+        124
+      ],
+      "captionBounds": [
+        285.373,
+        279.432,
+        380.943,
+        323.032
+      ],
+      "caption": "MATENGA SU DERECHA",
+      "displayCaption": "MANTENGA SU DERECHA"
+    }
+  },
+  {
+    "id": "sig-041",
+    "name": "VEHÍCULO PESADO MANTENGA SU DERECHA",
+    "category": "Reglamentarias",
+    "page": 152,
+    "imageUrl": "/signs/catalog/p152-r1-c3.png",
+    "sourceKey": "p152-r1-c3",
+    "source": {
+      "page": 152,
+      "row": 1,
+      "column": 3,
+      "image": "public/pages/page-152.jpg",
+      "crop": [
+        436,
+        151,
+        150,
+        124
+      ],
+      "captionBounds": [
+        449.317,
+        279.878,
+        571.546,
+        337.785
+      ],
+      "caption": "VEHÍCULO PESADO MANTENGA SU DERECHA",
+      "displayCaption": "VEHÍCULO PESADO MANTENGA SU DERECHA"
+    }
+  },
+  {
+    "id": "sig-042",
+    "name": "DIRECCIÓN OBLIGADA",
+    "category": "Reglamentarias",
+    "page": 152,
+    "imageUrl": "/signs/catalog/p152-r1-c4.png",
+    "sourceKey": "p152-r1-c4",
+    "source": {
+      "page": 152,
+      "row": 1,
+      "column": 4,
+      "image": "public/pages/page-152.jpg",
+      "crop": [
+        613,
+        151,
+        150,
+        124
+      ],
+      "captionBounds": [
+        646.213,
+        279.432,
+        726.67,
+        323.032
+      ],
+      "caption": "DIRECCIÓN OBLIGADA",
+      "displayCaption": "DIRECCIÓN OBLIGADA"
+    }
+  },
+  {
+    "id": "sig-043",
+    "name": "PREFERENCIA AL SENTIDO CONTRARIO",
+    "category": "Reglamentarias",
+    "page": 152,
+    "imageUrl": "/signs/catalog/p152-r1-c5.png",
+    "sourceKey": "p152-r1-c5",
+    "source": {
+      "page": 152,
+      "row": 1,
+      "column": 5,
+      "image": "public/pages/page-152.jpg",
+      "crop": [
+        790,
+        151,
+        150,
+        124
+      ],
+      "captionBounds": [
+        803.032,
+        279.432,
+        923.865,
+        343.032
+      ],
+      "caption": "PREFERENCIA AL SENTIDO CONTRARIO",
+      "displayCaption": "PREFERENCIA AL SENTIDO CONTRARIO"
+    }
+  },
+  {
+    "id": "sig-044",
+    "name": "CIRCULACIÓN EN AMBOS SENTIDOS",
+    "category": "Reglamentarias",
+    "page": 152,
+    "imageUrl": "/signs/catalog/p152-r2-c1.png",
+    "sourceKey": "p152-r2-c1",
+    "source": {
+      "page": 152,
+      "row": 2,
+      "column": 1,
+      "image": "public/pages/page-152.jpg",
+      "crop": [
+        82,
+        373,
+        150,
+        124
+      ],
+      "captionBounds": [
+        90.189,
+        502.44,
+        220.712,
+        546.04
+      ],
+      "caption": "CIRCULACIÓN EN AMBOS SENTIDOS",
+      "displayCaption": "CIRCULACIÓN EN AMBOS SENTIDOS"
+    }
+  },
+  {
+    "id": "sig-045",
+    "name": "MINIRROTONDA",
+    "category": "Reglamentarias",
+    "page": 152,
+    "imageUrl": "/signs/catalog/p152-r2-c2.png",
+    "sourceKey": "p152-r2-c2",
+    "source": {
+      "page": 152,
+      "row": 2,
+      "column": 2,
+      "image": "public/pages/page-152.jpg",
+      "crop": [
+        259,
+        373,
+        150,
+        124
+      ],
+      "captionBounds": [
+        276.162,
+        504.53,
+        390.157,
+        528.13
+      ],
+      "caption": "MINIRROTONDA",
+      "displayCaption": "MINIRROTONDA"
+    }
+  },
+  {
+    "id": "sig-046",
+    "name": "PASO OBLIGADO DERECHA",
+    "category": "Reglamentarias",
+    "page": 152,
+    "imageUrl": "/signs/catalog/p152-r2-c3.png",
+    "sourceKey": "p152-r2-c3",
+    "source": {
+      "page": 152,
+      "row": 2,
+      "column": 3,
+      "image": "public/pages/page-152.jpg",
+      "crop": [
+        436,
+        373,
+        150,
+        124
+      ],
+      "captionBounds": [
+        450.492,
+        501.607,
+        569.098,
+        545.207
+      ],
+      "caption": "PASO OBLIGADO DERECHA",
+      "displayCaption": "PASO OBLIGADO DERECHA"
+    }
+  },
+  {
+    "id": "sig-047",
+    "name": "PASO OBLIGADO IZQUIERDA",
+    "category": "Reglamentarias",
+    "page": 152,
+    "imageUrl": "/signs/catalog/p152-r2-c4.png",
+    "sourceKey": "p152-r2-c4",
+    "source": {
+      "page": 152,
+      "row": 2,
+      "column": 4,
+      "image": "public/pages/page-152.jpg",
+      "crop": [
+        613,
+        373,
+        150,
+        124
+      ],
+      "captionBounds": [
+        627.768,
+        501.607,
+        746.375,
+        545.207
+      ],
+      "caption": "PASO OBLIGADO IZQUIERDA",
+      "displayCaption": "PASO OBLIGADO IZQUIERDA"
+    }
+  },
+  {
+    "id": "sig-048",
+    "name": "PASO VÉRTICE",
+    "category": "Reglamentarias",
+    "page": 152,
+    "imageUrl": "/signs/catalog/p152-r2-c5.png",
+    "sourceKey": "p152-r2-c5",
+    "source": {
+      "page": 152,
+      "row": 2,
+      "column": 5,
+      "image": "public/pages/page-152.jpg",
+      "crop": [
+        790,
+        373,
+        150,
+        124
+      ],
+      "captionBounds": [
+        812.3,
+        501.607,
+        913.86,
+        525.207
+      ],
+      "caption": "PASO VÉRTICE",
+      "displayCaption": "PASO VÉRTICE"
+    }
+  },
+  {
+    "id": "sig-049",
+    "name": "CONTROL",
+    "category": "Reglamentarias",
+    "page": 152,
+    "imageUrl": "/signs/catalog/p152-r3-c1.png",
+    "sourceKey": "p152-r3-c1",
+    "source": {
+      "page": 152,
+      "row": 3,
+      "column": 1,
+      "image": "public/pages/page-152.jpg",
+      "crop": [
+        82,
+        582,
+        150,
+        123
+      ],
+      "captionBounds": [
+        123.719,
+        709.742,
+        192.375,
+        733.342
+      ],
+      "caption": "CONTROL",
+      "displayCaption": "CONTROL"
+    }
+  },
+  {
+    "id": "sig-050",
+    "name": "USO OBLIGATORIO DE CADENAS",
+    "category": "Reglamentarias",
+    "page": 152,
+    "imageUrl": "/signs/catalog/p152-r3-c2.png",
+    "sourceKey": "p152-r3-c2",
+    "source": {
+      "page": 152,
+      "row": 3,
+      "column": 2,
+      "image": "public/pages/page-152.jpg",
+      "crop": [
+        259,
+        582,
+        150,
+        123
+      ],
+      "captionBounds": [
+        268.788,
+        709.742,
+        400.562,
+        753.342
+      ],
+      "caption": "USO OBLIGATORIO DE CADENAS",
+      "displayCaption": "USO OBLIGATORIO DE CADENAS"
+    }
+  },
+  {
+    "id": "sig-051",
+    "name": "LUCES ENCENDIDAS",
+    "category": "Reglamentarias",
+    "page": 152,
+    "imageUrl": "/signs/catalog/p152-r3-c3.png",
+    "sourceKey": "p152-r3-c3",
+    "source": {
+      "page": 152,
+      "row": 3,
+      "column": 3,
+      "image": "public/pages/page-152.jpg",
+      "crop": [
+        436,
+        582,
+        150,
+        123
+      ],
+      "captionBounds": [
+        464.388,
+        709.742,
+        559.528,
+        753.342
+      ],
+      "caption": "LUCES ENCENDIDAS",
+      "displayCaption": "LUCES ENCENDIDAS"
+    }
+  },
+  {
+    "id": "sig-052",
+    "name": "SOLO MOTOCICLETAS",
+    "category": "Reglamentarias",
+    "page": 152,
+    "imageUrl": "/signs/catalog/p152-r3-c4.png",
+    "sourceKey": "p152-r3-c4",
+    "source": {
+      "page": 152,
+      "row": 3,
+      "column": 4,
+      "image": "public/pages/page-152.jpg",
+      "crop": [
+        613,
+        582,
+        150,
+        123
+      ],
+      "captionBounds": [
+        630.237,
+        709.742,
+        740.967,
+        753.342
+      ],
+      "caption": "SOLO MOTOCICLETAS",
+      "displayCaption": "SOLO MOTOCICLETAS"
+    }
+  },
+  {
+    "id": "sig-053",
+    "name": "VÍA SEGREGADA BUSES",
+    "category": "Reglamentarias",
+    "page": 152,
+    "imageUrl": "/signs/catalog/p152-r3-c5.png",
+    "sourceKey": "p152-r3-c5",
+    "source": {
+      "page": 152,
+      "row": 3,
+      "column": 5,
+      "image": "public/pages/page-152.jpg",
+      "crop": [
+        790,
+        582,
+        150,
+        123
+      ],
+      "captionBounds": [
+        803.952,
+        710.125,
+        920.078,
+        753.725
+      ],
+      "caption": "VÍA SEGREGADA BUSES",
+      "displayCaption": "VÍA SEGREGADA BUSES"
+    }
+  },
+  {
+    "id": "sig-p152-r4-c1",
+    "name": "VÍA SEGREGADA BUSES",
+    "category": "Reglamentarias",
+    "page": 152,
+    "imageUrl": "/signs/catalog/p152-r4-c1.png",
+    "sourceKey": "p152-r4-c1",
+    "source": {
+      "page": 152,
+      "row": 4,
+      "column": 1,
+      "image": "public/pages/page-152.jpg",
+      "crop": [
+        82,
+        789,
+        150,
+        123
+      ],
+      "captionBounds": [
+        101.275,
+        916.645,
+        217.402,
+        960.245
+      ],
+      "caption": "VÍA SEGREGADA BUSES",
+      "displayCaption": "VÍA SEGREGADA BUSES"
+    }
+  },
+  {
+    "id": "sig-054",
+    "name": "SOLO TRANSPORTE PÚBLICO",
+    "category": "Reglamentarias",
+    "page": 152,
+    "imageUrl": "/signs/catalog/p152-r4-c2.png",
+    "sourceKey": "p152-r4-c2",
+    "source": {
+      "page": 152,
+      "row": 4,
+      "column": 2,
+      "image": "public/pages/page-152.jpg",
+      "crop": [
+        259,
+        789,
+        150,
+        123
+      ],
+      "captionBounds": [
+        264.352,
+        916.645,
+        400.513,
+        960.245
+      ],
+      "caption": "SOLO TRANSPORTE PÚBLICO",
+      "displayCaption": "SOLO TRANSPORTE PÚBLICO"
+    }
+  },
+  {
+    "id": "sig-055",
+    "name": "SUPERFICIE SEGREGADA MOTORIZADOS - CICLOS",
+    "category": "Reglamentarias",
+    "page": 152,
+    "imageUrl": "/signs/catalog/p152-r4-c3.png",
+    "sourceKey": "p152-r4-c3",
+    "source": {
+      "page": 152,
+      "row": 4,
+      "column": 3,
+      "image": "public/pages/page-152.jpg",
+      "crop": [
+        436,
+        789,
+        150,
+        123
+      ],
+      "captionBounds": [
+        455.805,
+        917.09,
+        563.619,
+        993.33
+      ],
+      "caption": "SUPERFICIE SEGREGADA MOTORIZADOS - CICLOS",
+      "displayCaption": "SUPERFICIE SEGREGADA MOTORIZADOS - CICLOS"
+    }
+  },
+  {
+    "id": "sig-056",
+    "name": "SUPERFICIE SEGREGADA PEATONES-CICLOS",
+    "category": "Reglamentarias",
+    "page": 152,
+    "imageUrl": "/signs/catalog/p152-r4-c4.png",
+    "sourceKey": "p152-r4-c4",
+    "source": {
+      "page": 152,
+      "row": 4,
+      "column": 4,
+      "image": "public/pages/page-152.jpg",
+      "crop": [
+        613,
+        789,
+        150,
+        123
+      ],
+      "captionBounds": [
+        618.85,
+        916.645,
+        752.583,
+        980.245
+      ],
+      "caption": "SUPERFICIE SEGREGADA PEATONES-CICLOS",
+      "displayCaption": "SUPERFICIE SEGREGADA PEATONES-CICLOS"
+    }
+  },
+  {
+    "id": "sig-057",
+    "name": "RESERVADO",
+    "category": "Reglamentarias",
+    "page": 152,
+    "imageUrl": "/signs/catalog/p152-r4-c5.png",
+    "sourceKey": "p152-r4-c5",
+    "source": {
+      "page": 152,
+      "row": 4,
+      "column": 5,
+      "image": "public/pages/page-152.jpg",
+      "crop": [
+        790,
+        789,
+        150,
+        123
+      ],
+      "captionBounds": [
+        820.592,
+        918.645,
+        907.498,
+        942.245
+      ],
+      "caption": "RESERVADO",
+      "displayCaption": "RESERVADO"
+    }
+  },
+  {
+    "id": "sig-058",
+    "name": "PERMITIDO VIRAR DERECHA CON LUZ ROJA",
+    "category": "Reglamentarias",
+    "page": 152,
+    "imageUrl": "/signs/catalog/p152-r5-c1.png",
+    "sourceKey": "p152-r5-c1",
+    "source": {
+      "page": 152,
+      "row": 5,
+      "column": 1,
+      "image": "public/pages/page-152.jpg",
+      "crop": [
+        82,
+        1026,
+        150,
+        123
+      ],
+      "captionBounds": [
+        92.988,
+        1154.202,
+        222.158,
+        1217.803
+      ],
+      "caption": "PERMITIDO VIRAR DERECHA CON LUZ ROJA",
+      "displayCaption": "PERMITIDO VIRAR DERECHA CON LUZ ROJA"
+    }
+  },
+  {
+    "id": "sig-059",
+    "name": "PERMITIDO VIRAR IZQUIERDA CON LUZ ROJA",
+    "category": "Reglamentarias",
+    "page": 152,
+    "imageUrl": "/signs/catalog/p152-r5-c2.png",
+    "sourceKey": "p152-r5-c2",
+    "source": {
+      "page": 152,
+      "row": 5,
+      "column": 2,
+      "image": "public/pages/page-152.jpg",
+      "crop": [
+        259,
+        1026,
+        150,
+        123
+      ],
+      "captionBounds": [
+        269.628,
+        1156.429,
+        398.798,
+        1220.029
+      ],
+      "caption": "PERMITIDO VIRAR IZQUIERDA CON LUZ ROJA",
+      "displayCaption": "PERMITIDO VIRAR IZQUIERDA CON LUZ ROJA"
+    }
+  },
+  {
+    "id": "sig-060",
+    "name": "CURVA A LA DERECHA",
+    "category": "Advertencia de Peligro",
+    "page": 153,
+    "imageUrl": "/signs/catalog/p153-r1-c1.png",
+    "sourceKey": "p153-r1-c1",
+    "source": {
+      "page": 153,
+      "row": 1,
+      "column": 1,
+      "image": "public/pages/page-153.jpg",
+      "crop": [
+        82,
+        289,
+        150,
+        123
+      ],
+      "captionBounds": [
+        113.6,
+        417.908,
+        199.437,
+        461.508
+      ],
+      "caption": "CURVA A LA DERECHA",
+      "displayCaption": "CURVA A LA DERECHA"
+    }
+  },
+  {
+    "id": "sig-061",
+    "name": "CURVA A LA IZQUIERDA",
+    "category": "Advertencia de Peligro",
+    "page": 153,
+    "imageUrl": "/signs/catalog/p153-r1-c2.png",
+    "sourceKey": "p153-r1-c2",
+    "source": {
+      "page": 153,
+      "row": 1,
+      "column": 2,
+      "image": "public/pages/page-153.jpg",
+      "crop": [
+        259,
+        289,
+        150,
+        123
+      ],
+      "captionBounds": [
+        290.24,
+        417.908,
+        376.077,
+        461.508
+      ],
+      "caption": "CURVA A LA IZQUIERDA",
+      "displayCaption": "CURVA A LA IZQUIERDA"
+    }
+  },
+  {
+    "id": "sig-062",
+    "name": "CURVA CERRADA A LA DERECHA",
+    "category": "Advertencia de Peligro",
+    "page": 153,
+    "imageUrl": "/signs/catalog/p153-r1-c3.png",
+    "sourceKey": "p153-r1-c3",
+    "source": {
+      "page": 153,
+      "row": 1,
+      "column": 3,
+      "image": "public/pages/page-153.jpg",
+      "crop": [
+        436,
+        289,
+        150,
+        123
+      ],
+      "captionBounds": [
+        442.692,
+        417.908,
+        578.168,
+        461.508
+      ],
+      "caption": "CURVA CERRADA A LA DERECHA",
+      "displayCaption": "CURVA CERRADA A LA DERECHA"
+    }
+  },
+  {
+    "id": "sig-063",
+    "name": "CURVA CERRADA A LA IZQUIERDA",
+    "category": "Advertencia de Peligro",
+    "page": 153,
+    "imageUrl": "/signs/catalog/p153-r1-c4.png",
+    "sourceKey": "p153-r1-c4",
+    "source": {
+      "page": 153,
+      "row": 1,
+      "column": 4,
+      "image": "public/pages/page-153.jpg",
+      "crop": [
+        613,
+        289,
+        150,
+        123
+      ],
+      "captionBounds": [
+        618.695,
+        417.908,
+        754.172,
+        461.508
+      ],
+      "caption": "CURVA CERRADA A LA IZQUIERDA",
+      "displayCaption": "CURVA CERRADA A LA IZQUIERDA"
+    }
+  },
+  {
+    "id": "sig-064",
+    "name": "ZONA DE CURVAS A LA DERECHA",
+    "category": "Advertencia de Peligro",
+    "page": 153,
+    "imageUrl": "/signs/catalog/p153-r1-c5.png",
+    "sourceKey": "p153-r1-c5",
+    "source": {
+      "page": 153,
+      "row": 1,
+      "column": 5,
+      "image": "public/pages/page-153.jpg",
+      "crop": [
+        790,
+        289,
+        150,
+        123
+      ],
+      "captionBounds": [
+        799.598,
+        417.908,
+        927.308,
+        461.508
+      ],
+      "caption": "ZONA DE CURVAS A LA DERECHA",
+      "displayCaption": "ZONA DE CURVAS A LA DERECHA"
+    }
+  },
+  {
+    "id": "sig-065",
+    "name": "ZONA DE CURVAS A LA IZQUIERDA",
+    "category": "Advertencia de Peligro",
+    "page": 153,
+    "imageUrl": "/signs/catalog/p153-r2-c1.png",
+    "sourceKey": "p153-r2-c1",
+    "source": {
+      "page": 153,
+      "row": 2,
+      "column": 1,
+      "image": "public/pages/page-153.jpg",
+      "crop": [
+        82,
+        497,
+        150,
+        124
+      ],
+      "captionBounds": [
+        92.66,
+        626.878,
+        220.37,
+        670.478
+      ],
+      "caption": "ZONA DE CURVAS A LA IZQUIERDA",
+      "displayCaption": "ZONA DE CURVAS A LA IZQUIERDA"
+    }
+  },
+  {
+    "id": "sig-066",
+    "name": "CURVA Y CONTRACURVA A LA DERECHA",
+    "category": "Advertencia de Peligro",
+    "page": 153,
+    "imageUrl": "/signs/catalog/p153-r2-c2.png",
+    "sourceKey": "p153-r2-c2",
+    "source": {
+      "page": 153,
+      "row": 2,
+      "column": 2,
+      "image": "public/pages/page-153.jpg",
+      "crop": [
+        259,
+        497,
+        150,
+        124
+      ],
+      "captionBounds": [
+        277.902,
+        627.323,
+        388.419,
+        685.23
+      ],
+      "caption": "CURVA Y CONTRACURVA A LA DERECHA",
+      "displayCaption": "CURVA Y CONTRACURVA A LA DERECHA"
+    }
+  },
+  {
+    "id": "sig-067",
+    "name": "CURVA Y CONTRACURVA A LA IZQUIERDA",
+    "category": "Advertencia de Peligro",
+    "page": 153,
+    "imageUrl": "/signs/catalog/p153-r2-c3.png",
+    "sourceKey": "p153-r2-c3",
+    "source": {
+      "page": 153,
+      "row": 2,
+      "column": 3,
+      "image": "public/pages/page-153.jpg",
+      "crop": [
+        436,
+        497,
+        150,
+        124
+      ],
+      "captionBounds": [
+        455.177,
+        627.323,
+        565.694,
+        685.23
+      ],
+      "caption": "CURVA Y CONTRACURVA A LA IZQUIERDA",
+      "displayCaption": "CURVA Y CONTRACURVA A LA IZQUIERDA"
+    }
+  },
+  {
+    "id": "sig-068",
+    "name": "CURVA Y CONTRACURVA CERRADA A LA DERECHA",
+    "category": "Advertencia de Peligro",
+    "page": 153,
+    "imageUrl": "/signs/catalog/p153-r2-c4.png",
+    "sourceKey": "p153-r2-c4",
+    "source": {
+      "page": 153,
+      "row": 2,
+      "column": 4,
+      "image": "public/pages/page-153.jpg",
+      "crop": [
+        613,
+        497,
+        150,
+        124
+      ],
+      "captionBounds": [
+        637.395,
+        627.323,
+        735.492,
+        703.563
+      ],
+      "caption": "CURVA Y CONTRACURVA CERRADA A LA DERECHA",
+      "displayCaption": "CURVA Y CONTRACURVA CERRADA A LA DERECHA"
+    }
+  },
+  {
+    "id": "sig-069",
+    "name": "CURVA Y CONTRACURVA CERRADA A LA IZQUIERDA",
+    "category": "Advertencia de Peligro",
+    "page": 153,
+    "imageUrl": "/signs/catalog/p153-r2-c5.png",
+    "sourceKey": "p153-r2-c5",
+    "source": {
+      "page": 153,
+      "row": 2,
+      "column": 5,
+      "image": "public/pages/page-153.jpg",
+      "crop": [
+        790,
+        497,
+        150,
+        124
+      ],
+      "captionBounds": [
+        814.412,
+        627.323,
+        912.509,
+        703.563
+      ],
+      "caption": "CURVA Y CONTRACURVA CERRADA A LA IZQUIERDA",
+      "displayCaption": "CURVA Y CONTRACURVA CERRADA A LA IZQUIERDA"
+    }
+  },
+  {
+    "id": "sig-070",
+    "name": "CURVA MUY CERRADA A LA DERECHA",
+    "category": "Advertencia de Peligro",
+    "page": 153,
+    "imageUrl": "/signs/catalog/p153-r3-c1.png",
+    "sourceKey": "p153-r3-c1",
+    "source": {
+      "page": 153,
+      "row": 3,
+      "column": 1,
+      "image": "public/pages/page-153.jpg",
+      "crop": [
+        82,
+        739,
+        150,
+        124
+      ],
+      "captionBounds": [
+        84.523,
+        867.715,
+        228.502,
+        907.288
+      ],
+      "caption": "CURVA MUY CERRADA A LA DERECHA",
+      "displayCaption": "CURVA MUY CERRADA A LA DERECHA"
+    }
+  },
+  {
+    "id": "sig-071",
+    "name": "CURVA MUY CERRADA A LA IZQUIERDA",
+    "category": "Advertencia de Peligro",
+    "page": 153,
+    "imageUrl": "/signs/catalog/p153-r3-c2.png",
+    "sourceKey": "p153-r3-c2",
+    "source": {
+      "page": 153,
+      "row": 3,
+      "column": 2,
+      "image": "public/pages/page-153.jpg",
+      "crop": [
+        259,
+        739,
+        150,
+        124
+      ],
+      "captionBounds": [
+        261.163,
+        867.715,
+        405.142,
+        907.288
+      ],
+      "caption": "CURVA MUY CERRADA A LA IZQUIERDA",
+      "displayCaption": "CURVA MUY CERRADA A LA IZQUIERDA"
+    }
+  },
+  {
+    "id": "sig-072",
+    "name": "PENDIENTE FUERTE EN BAJADA",
+    "category": "Advertencia de Peligro",
+    "page": 153,
+    "imageUrl": "/signs/catalog/p153-r3-c3.png",
+    "sourceKey": "p153-r3-c3",
+    "source": {
+      "page": 153,
+      "row": 3,
+      "column": 3,
+      "image": "public/pages/page-153.jpg",
+      "crop": [
+        436,
+        739,
+        150,
+        124
+      ],
+      "captionBounds": [
+        440.723,
+        867.27,
+        580.127,
+        910.87
+      ],
+      "caption": "PENDIENTE FUERTE EN BAJADA",
+      "displayCaption": "PENDIENTE FUERTE EN BAJADA"
+    }
+  },
+  {
+    "id": "sig-p153-r3-c4",
+    "name": "PENDIENTE FUERTE EN BAJADA",
+    "category": "Advertencia de Peligro",
+    "page": 153,
+    "imageUrl": "/signs/catalog/p153-r3-c4.png",
+    "sourceKey": "p153-r3-c4",
+    "source": {
+      "page": 153,
+      "row": 3,
+      "column": 4,
+      "image": "public/pages/page-153.jpg",
+      "crop": [
+        613,
+        739,
+        150,
+        124
+      ],
+      "captionBounds": [
+        616.728,
+        867.27,
+        756.132,
+        910.87
+      ],
+      "caption": "PENDIENTE FUERTE EN BAJADA",
+      "displayCaption": "PENDIENTE FUERTE EN BAJADA"
+    }
+  },
+  {
+    "id": "sig-073",
+    "name": "PROXIMIDAD DE TÚNEL",
+    "category": "Advertencia de Peligro",
+    "page": 153,
+    "imageUrl": "/signs/catalog/p153-r3-c5.png",
+    "sourceKey": "p153-r3-c5",
+    "source": {
+      "page": 153,
+      "row": 3,
+      "column": 5,
+      "image": "public/pages/page-153.jpg",
+      "crop": [
+        790,
+        739,
+        150,
+        124
+      ],
+      "captionBounds": [
+        816.288,
+        867.27,
+        910.632,
+        910.87
+      ],
+      "caption": "PROXIMIDAD DE TÚNEL",
+      "displayCaption": "PROXIMIDAD DE TÚNEL"
+    }
+  },
+  {
+    "id": "sig-074",
+    "name": "PENDIENTE FUERTE EN SUBIDA",
+    "category": "Advertencia de Peligro",
+    "page": 153,
+    "imageUrl": "/signs/catalog/p153-r4-c1.png",
+    "sourceKey": "p153-r4-c1",
+    "source": {
+      "page": 153,
+      "row": 4,
+      "column": 1,
+      "image": "public/pages/page-153.jpg",
+      "crop": [
+        82,
+        947,
+        150,
+        124
+      ],
+      "captionBounds": [
+        86.807,
+        1075.55,
+        226.21,
+        1119.15
+      ],
+      "caption": "PENDIENTE FUERTE EN SUBIDA",
+      "displayCaption": "PENDIENTE FUERTE EN SUBIDA"
+    }
+  },
+  {
+    "id": "sig-p153-r4-c2",
+    "name": "PENDIENTE FUERTE EN SUBIDA",
+    "category": "Advertencia de Peligro",
+    "page": 153,
+    "imageUrl": "/signs/catalog/p153-r4-c2.png",
+    "sourceKey": "p153-r4-c2",
+    "source": {
+      "page": 153,
+      "row": 4,
+      "column": 2,
+      "image": "public/pages/page-153.jpg",
+      "crop": [
+        259,
+        947,
+        150,
+        124
+      ],
+      "captionBounds": [
+        263.447,
+        1075.55,
+        402.85,
+        1119.15
+      ],
+      "caption": "PENDIENTE FUERTE EN SUBIDA",
+      "displayCaption": "PENDIENTE FUERTE EN SUBIDA"
+    }
+  },
+  {
+    "id": "sig-075",
+    "name": "RIBERA SIN PROTECCIÓN",
+    "category": "Advertencia de Peligro",
+    "page": 153,
+    "imageUrl": "/signs/catalog/p153-r4-c3.png",
+    "sourceKey": "p153-r4-c3",
+    "source": {
+      "page": 153,
+      "row": 4,
+      "column": 3,
+      "image": "public/pages/page-153.jpg",
+      "crop": [
+        436,
+        947,
+        150,
+        124
+      ],
+      "captionBounds": [
+        464.573,
+        1075.55,
+        556.303,
+        1119.15
+      ],
+      "caption": "RIBERA SIN PROTECCIÓN",
+      "displayCaption": "RIBERA SIN PROTECCIÓN"
+    }
+  },
+  {
+    "id": "sig-076",
+    "name": "AEROPUERTO O AERÓDROMO",
+    "category": "Advertencia de Peligro",
+    "page": 153,
+    "imageUrl": "/signs/catalog/p153-r4-c4.png",
+    "sourceKey": "p153-r4-c4",
+    "source": {
+      "page": 153,
+      "row": 4,
+      "column": 4,
+      "image": "public/pages/page-153.jpg",
+      "crop": [
+        613,
+        947,
+        150,
+        124
+      ],
+      "captionBounds": [
+        631.625,
+        1075.55,
+        741.252,
+        1119.15
+      ],
+      "caption": "AEROPUERTO O AERÓDROMO",
+      "displayCaption": "AEROPUERTO O AERÓDROMO"
+    }
+  },
+  {
+    "id": "sig-077",
+    "name": "VIENTO LATERAL",
+    "category": "Advertencia de Peligro",
+    "page": 153,
+    "imageUrl": "/signs/catalog/p153-r4-c5.png",
+    "sourceKey": "p153-r4-c5",
+    "source": {
+      "page": 153,
+      "row": 4,
+      "column": 5,
+      "image": "public/pages/page-153.jpg",
+      "crop": [
+        790,
+        947,
+        150,
+        124
+      ],
+      "captionBounds": [
+        804.165,
+        1075.55,
+        922.742,
+        1099.15
+      ],
+      "caption": "VIENTO LATERAL",
+      "displayCaption": "VIENTO LATERAL"
+    }
+  },
+  {
+    "id": "sig-078",
+    "name": "ANGOSTAMIENTO A AMBOS LADOS",
+    "category": "Advertencia de Peligro",
+    "page": 154,
+    "imageUrl": "/signs/catalog/p154-r1-c1.png",
+    "sourceKey": "p154-r1-c1",
+    "source": {
+      "page": 154,
+      "row": 1,
+      "column": 1,
+      "image": "public/pages/page-154.jpg",
+      "crop": [
+        82,
+        144,
+        150,
+        124
+      ],
+      "captionBounds": [
+        94.542,
+        273.795,
+        220.472,
+        317.395
+      ],
+      "caption": "ANGOSTAMIENTO A AMBOS LADOS",
+      "displayCaption": "ANGOSTAMIENTO A AMBOS LADOS"
+    }
+  },
+  {
+    "id": "sig-079",
+    "name": "ANGOSTAMIENTO A LA DERECHA",
+    "category": "Advertencia de Peligro",
+    "page": 154,
+    "imageUrl": "/signs/catalog/p154-r1-c2.png",
+    "sourceKey": "p154-r1-c2",
+    "source": {
+      "page": 154,
+      "row": 1,
+      "column": 2,
+      "image": "public/pages/page-154.jpg",
+      "crop": [
+        259,
+        144,
+        150,
+        124
+      ],
+      "captionBounds": [
+        271.182,
+        273.795,
+        397.112,
+        317.395
+      ],
+      "caption": "ANGOSTAMIENTO A LA DERECHA",
+      "displayCaption": "ANGOSTAMIENTO A LA DERECHA"
+    }
+  },
+  {
+    "id": "sig-080",
+    "name": "ANGOSTAMIENTO A LA IZQUIERDA",
+    "category": "Advertencia de Peligro",
+    "page": 154,
+    "imageUrl": "/signs/catalog/p154-r1-c3.png",
+    "sourceKey": "p154-r1-c3",
+    "source": {
+      "page": 154,
+      "row": 1,
+      "column": 3,
+      "image": "public/pages/page-154.jpg",
+      "crop": [
+        436,
+        144,
+        150,
+        124
+      ],
+      "captionBounds": [
+        448.458,
+        273.795,
+        574.388,
+        317.395
+      ],
+      "caption": "ANGOSTAMIENTO A LA IZQUIERDA",
+      "displayCaption": "ANGOSTAMIENTO A LA IZQUIERDA"
+    }
+  },
+  {
+    "id": "sig-081",
+    "name": "PUENTE ANGOSTO",
+    "category": "Advertencia de Peligro",
+    "page": 154,
+    "imageUrl": "/signs/catalog/p154-r1-c4.png",
+    "sourceKey": "p154-r1-c4",
+    "source": {
+      "page": 154,
+      "row": 1,
+      "column": 4,
+      "image": "public/pages/page-154.jpg",
+      "crop": [
+        613,
+        144,
+        150,
+        124
+      ],
+      "captionBounds": [
+        622.353,
+        273.795,
+        752.497,
+        297.395
+      ],
+      "caption": "PUENTE ANGOSTO",
+      "displayCaption": "PUENTE ANGOSTO"
+    }
+  },
+  {
+    "id": "sig-082",
+    "name": "ENSANCHAMIENTO A AMBOS LADOS",
+    "category": "Advertencia de Peligro",
+    "page": 154,
+    "imageUrl": "/signs/catalog/p154-r1-c5.png",
+    "sourceKey": "p154-r1-c5",
+    "source": {
+      "page": 154,
+      "row": 1,
+      "column": 5,
+      "image": "public/pages/page-154.jpg",
+      "crop": [
+        790,
+        144,
+        150,
+        124
+      ],
+      "captionBounds": [
+        795.38,
+        273.795,
+        933.503,
+        317.395
+      ],
+      "caption": "ENSANCHAMIENTO A AMBOS LADOS",
+      "displayCaption": "ENSANCHAMIENTO A AMBOS LADOS"
+    }
+  },
+  {
+    "id": "sig-083",
+    "name": "ENSANCHAMIENTO A LA DERECHA",
+    "category": "Advertencia de Peligro",
+    "page": 154,
+    "imageUrl": "/signs/catalog/p154-r2-c1.png",
+    "sourceKey": "p154-r2-c1",
+    "source": {
+      "page": 154,
+      "row": 2,
+      "column": 1,
+      "image": "public/pages/page-154.jpg",
+      "crop": [
+        82,
+        353,
+        150,
+        124
+      ],
+      "captionBounds": [
+        88.441,
+        482.098,
+        226.564,
+        525.698
+      ],
+      "caption": "ENSANCHAMIENTO A LA DERECHA",
+      "displayCaption": "ENSANCHAMIENTO A LA DERECHA"
+    }
+  },
+  {
+    "id": "sig-084",
+    "name": "ENSANCHAMIENTO A LA IZQUIERDA",
+    "category": "Advertencia de Peligro",
+    "page": 154,
+    "imageUrl": "/signs/catalog/p154-r2-c2.png",
+    "sourceKey": "p154-r2-c2",
+    "source": {
+      "page": 154,
+      "row": 2,
+      "column": 2,
+      "image": "public/pages/page-154.jpg",
+      "crop": [
+        259,
+        353,
+        150,
+        124
+      ],
+      "captionBounds": [
+        265.082,
+        482.098,
+        403.205,
+        525.698
+      ],
+      "caption": "ENSANCHAMIENTO A LA IZQUIERDA",
+      "displayCaption": "ENSANCHAMIENTO A LA IZQUIERDA"
+    }
+  },
+  {
+    "id": "sig-085",
+    "name": "PESO MÁXIMO",
+    "category": "Advertencia de Peligro",
+    "page": 154,
+    "imageUrl": "/signs/catalog/p154-r2-c3.png",
+    "sourceKey": "p154-r2-c3",
+    "source": {
+      "page": 154,
+      "row": 2,
+      "column": 3,
+      "image": "public/pages/page-154.jpg",
+      "crop": [
+        436,
+        353,
+        150,
+        124
+      ],
+      "captionBounds": [
+        458.628,
+        482.098,
+        564.217,
+        505.698
+      ],
+      "caption": "PESO MÁXIMO",
+      "displayCaption": "PESO MÁXIMO"
+    }
+  },
+  {
+    "id": "sig-p154-r2-c4",
+    "name": "ALTURA MÁXIMA",
+    "category": "Advertencia de Peligro",
+    "page": 154,
+    "imageUrl": "/signs/catalog/p154-r2-c4.png",
+    "sourceKey": "p154-r2-c4",
+    "source": {
+      "page": 154,
+      "row": 2,
+      "column": 4,
+      "image": "public/pages/page-154.jpg",
+      "crop": [
+        613,
+        353,
+        150,
+        124
+      ],
+      "captionBounds": [
+        626.413,
+        482.098,
+        748.438,
+        505.698
+      ],
+      "caption": "ALTURA MÁXIMA",
+      "displayCaption": "ALTURA MÁXIMA"
+    }
+  },
+  {
+    "id": "sig-p154-r2-c5",
+    "name": "ANCHO MÁXIMO",
+    "category": "Advertencia de Peligro",
+    "page": 154,
+    "imageUrl": "/signs/catalog/p154-r2-c5.png",
+    "sourceKey": "p154-r2-c5",
+    "source": {
+      "page": 154,
+      "row": 2,
+      "column": 5,
+      "image": "public/pages/page-154.jpg",
+      "crop": [
+        790,
+        353,
+        150,
+        124
+      ],
+      "captionBounds": [
+        803.867,
+        482.098,
+        925.02,
+        505.698
+      ],
+      "caption": "ANCHO MÁXIMO",
+      "displayCaption": "ANCHO MÁXIMO"
+    }
+  },
+  {
+    "id": "sig-p154-r3-c1",
+    "name": "LARGO MÁXIMO",
+    "category": "Advertencia de Peligro",
+    "page": 154,
+    "imageUrl": "/signs/catalog/p154-r3-c1.png",
+    "sourceKey": "p154-r3-c1",
+    "source": {
+      "page": 154,
+      "row": 3,
+      "column": 1,
+      "image": "public/pages/page-154.jpg",
+      "crop": [
+        82,
+        561,
+        150,
+        124
+      ],
+      "captionBounds": [
+        98.877,
+        690.402,
+        216.134,
+        714.002
+      ],
+      "caption": "LARGO MÁXIMO",
+      "displayCaption": "LARGO MÁXIMO"
+    }
+  },
+  {
+    "id": "sig-086",
+    "name": "INICIO DE MEDIANA",
+    "category": "Advertencia de Peligro",
+    "page": 154,
+    "imageUrl": "/signs/catalog/p154-r3-c2.png",
+    "sourceKey": "p154-r3-c2",
+    "source": {
+      "page": 154,
+      "row": 3,
+      "column": 2,
+      "image": "public/pages/page-154.jpg",
+      "crop": [
+        259,
+        561,
+        150,
+        124
+      ],
+      "captionBounds": [
+        298.938,
+        690.402,
+        371.123,
+        734.002
+      ],
+      "caption": "INICIO DE MEDIANA",
+      "displayCaption": "INICIO DE MEDIANA"
+    }
+  },
+  {
+    "id": "sig-087",
+    "name": "PROXIMIDAD DE CABLES DE ALTA TENSIÓN",
+    "category": "Advertencia de Peligro",
+    "page": 154,
+    "imageUrl": "/signs/catalog/p154-r3-c3.png",
+    "sourceKey": "p154-r3-c3",
+    "source": {
+      "page": 154,
+      "row": 3,
+      "column": 3,
+      "image": "public/pages/page-154.jpg",
+      "crop": [
+        436,
+        561,
+        150,
+        124
+      ],
+      "captionBounds": [
+        458.393,
+        690.847,
+        564.452,
+        748.753
+      ],
+      "caption": "PROXIMIDAD DE CABLES DE ALTA TENSIÓN",
+      "displayCaption": "PROXIMIDAD DE CABLES DE ALTA TENSIÓN"
+    }
+  },
+  {
+    "id": "sig-088",
+    "name": "RESALTO",
+    "category": "Advertencia de Peligro",
+    "page": 154,
+    "imageUrl": "/signs/catalog/p154-r3-c4.png",
+    "sourceKey": "p154-r3-c4",
+    "source": {
+      "page": 154,
+      "row": 3,
+      "column": 4,
+      "image": "public/pages/page-154.jpg",
+      "crop": [
+        613,
+        561,
+        150,
+        124
+      ],
+      "captionBounds": [
+        656.638,
+        690.402,
+        718.235,
+        714.002
+      ],
+      "caption": "RESALTO",
+      "displayCaption": "RESALTO"
+    }
+  },
+  {
+    "id": "sig-089",
+    "name": "UBICACIÓN RESALTO",
+    "category": "Advertencia de Peligro",
+    "page": 154,
+    "imageUrl": "/signs/catalog/p154-r3-c5.png",
+    "sourceKey": "p154-r3-c5",
+    "source": {
+      "page": 154,
+      "row": 3,
+      "column": 5,
+      "image": "public/pages/page-154.jpg",
+      "crop": [
+        790,
+        561,
+        150,
+        124
+      ],
+      "captionBounds": [
+        823.437,
+        690.402,
+        905.457,
+        734.002
+      ],
+      "caption": "UBICACIÓN RESALTO",
+      "displayCaption": "UBICACIÓN RESALTO"
+    }
+  },
+  {
+    "id": "sig-090",
+    "name": "RESALTOS SUCESIVOS",
+    "category": "Advertencia de Peligro",
+    "page": 154,
+    "imageUrl": "/signs/catalog/p154-r4-c1.png",
+    "sourceKey": "p154-r4-c1",
+    "source": {
+      "page": 154,
+      "row": 4,
+      "column": 1,
+      "image": "public/pages/page-154.jpg",
+      "crop": [
+        82,
+        781,
+        150,
+        124
+      ],
+      "captionBounds": [
+        116.64,
+        910.252,
+        198.383,
+        953.852
+      ],
+      "caption": "RESALTOS SUCESIVOS",
+      "displayCaption": "RESALTOS SUCESIVOS"
+    }
+  },
+  {
+    "id": "sig-091",
+    "name": "BADÉN",
+    "category": "Advertencia de Peligro",
+    "page": 154,
+    "imageUrl": "/signs/catalog/p154-r4-c2.png",
+    "sourceKey": "p154-r4-c2",
+    "source": {
+      "page": 154,
+      "row": 4,
+      "column": 2,
+      "image": "public/pages/page-154.jpg",
+      "crop": [
+        259,
+        781,
+        150,
+        124
+      ],
+      "captionBounds": [
+        308.912,
+        910.252,
+        359.395,
+        933.852
+      ],
+      "caption": "BADÉN",
+      "displayCaption": "BADÉN"
+    }
+  },
+  {
+    "id": "sig-092",
+    "name": "PROYECCIÓN DE GRAVILLA",
+    "category": "Advertencia de Peligro",
+    "page": 154,
+    "imageUrl": "/signs/catalog/p154-r4-c3.png",
+    "sourceKey": "p154-r4-c3",
+    "source": {
+      "page": 154,
+      "row": 4,
+      "column": 3,
+      "image": "public/pages/page-154.jpg",
+      "crop": [
+        436,
+        781,
+        150,
+        124
+      ],
+      "captionBounds": [
+        464.078,
+        910.252,
+        558.768,
+        953.852
+      ],
+      "caption": "PROYECCIÓN DE GRAVILLA",
+      "displayCaption": "PROYECCIÓN DE GRAVILLA"
+    }
+  },
+  {
+    "id": "sig-093",
+    "name": "ZONA DE AVALANCHA",
+    "category": "Advertencia de Peligro",
+    "page": 154,
+    "imageUrl": "/signs/catalog/p154-r4-c4.png",
+    "sourceKey": "p154-r4-c4",
+    "source": {
+      "page": 154,
+      "row": 4,
+      "column": 4,
+      "image": "public/pages/page-154.jpg",
+      "crop": [
+        613,
+        781,
+        150,
+        124
+      ],
+      "captionBounds": [
+        642.495,
+        910.252,
+        732.368,
+        953.852
+      ],
+      "caption": "ZONA DE AVALANCHA",
+      "displayCaption": "ZONA DE AVALANCHA"
+    }
+  },
+  {
+    "id": "sig-094",
+    "name": "PELIGRO",
+    "category": "Advertencia de Peligro",
+    "page": 154,
+    "imageUrl": "/signs/catalog/p154-r4-c5.png",
+    "sourceKey": "p154-r4-c5",
+    "source": {
+      "page": 154,
+      "row": 4,
+      "column": 5,
+      "image": "public/pages/page-154.jpg",
+      "crop": [
+        790,
+        781,
+        150,
+        124
+      ],
+      "captionBounds": [
+        833.498,
+        910.252,
+        895.402,
+        933.852
+      ],
+      "caption": "PELIGRO",
+      "displayCaption": "PELIGRO"
+    }
+  },
+  {
+    "id": "sig-095",
+    "name": "BARRERAS",
+    "category": "Advertencia de Peligro",
+    "page": 154,
+    "imageUrl": "/signs/catalog/p154-r5-c1.png",
+    "sourceKey": "p154-r5-c1",
+    "source": {
+      "page": 154,
+      "row": 5,
+      "column": 1,
+      "image": "public/pages/page-154.jpg",
+      "crop": [
+        82,
+        989,
+        150,
+        124
+      ],
+      "captionBounds": [
+        119.892,
+        1118.555,
+        195.132,
+        1142.155
+      ],
+      "caption": "BARRERAS",
+      "displayCaption": "BARRERAS"
+    }
+  },
+  {
+    "id": "sig-096",
+    "name": "SEÑAL FIN MEDIANA",
+    "category": "Advertencia de Peligro",
+    "page": 154,
+    "imageUrl": "/signs/catalog/p154-r5-c2.png",
+    "sourceKey": "p154-r5-c2",
+    "source": {
+      "page": 154,
+      "row": 5,
+      "column": 2,
+      "image": "public/pages/page-154.jpg",
+      "crop": [
+        259,
+        989,
+        150,
+        124
+      ],
+      "captionBounds": [
+        296.338,
+        1118.555,
+        371.955,
+        1162.155
+      ],
+      "caption": "SEÑAL FIN MEDIANA",
+      "displayCaption": "SEÑAL FIN MEDIANA"
+    }
+  },
+  {
+    "id": "sig-097",
+    "name": "CRUCE FERROVIARIO A NIVEL SIN BARRERAS",
+    "category": "Advertencia de Peligro",
+    "page": 154,
+    "imageUrl": "/signs/catalog/p154-r5-c3.png",
+    "sourceKey": "p154-r5-c3",
+    "source": {
+      "page": 154,
+      "row": 5,
+      "column": 3,
+      "image": "public/pages/page-154.jpg",
+      "crop": [
+        436,
+        989,
+        150,
+        124
+      ],
+      "captionBounds": [
+        439.277,
+        1118.555,
+        583.553,
+        1182.155
+      ],
+      "caption": "CRUCE FERROVIARIO A NIVEL SIN BARRERAS",
+      "displayCaption": "CRUCE FERROVIARIO A NIVEL SIN BARRERAS"
+    }
+  },
+  {
+    "id": "sig-098",
+    "name": "CRUCE FERROVIARIO A NIVEL CON BARRERAS",
+    "category": "Advertencia de Peligro",
+    "page": 154,
+    "imageUrl": "/signs/catalog/p154-r5-c4.png",
+    "sourceKey": "p154-r5-c4",
+    "source": {
+      "page": 154,
+      "row": 5,
+      "column": 4,
+      "image": "public/pages/page-154.jpg",
+      "crop": [
+        613,
+        989,
+        150,
+        124
+      ],
+      "captionBounds": [
+        615.282,
+        1118.555,
+        759.558,
+        1182.155
+      ],
+      "caption": "CRUCE FERROVIARIO A NIVEL CON BARRERAS",
+      "displayCaption": "CRUCE FERROVIARIO A NIVEL CON BARRERAS"
+    }
+  },
+  {
+    "id": "sig-099",
+    "name": "CRUZ DE SAN ANDRÉS",
+    "category": "Advertencia de Peligro",
+    "page": 154,
+    "imageUrl": "/signs/catalog/p154-r5-c5.png",
+    "sourceKey": "p154-r5-c5",
+    "source": {
+      "page": 154,
+      "row": 5,
+      "column": 5,
+      "image": "public/pages/page-154.jpg",
+      "crop": [
+        790,
+        989,
+        150,
+        124
+      ],
+      "captionBounds": [
+        818.052,
+        1118.555,
+        910.842,
+        1162.155
+      ],
+      "caption": "CRUCE DE SAN ANDRÉS",
+      "displayCaption": "CRUZ DE SAN ANDRÉS"
+    }
+  },
+  {
+    "id": "sig-100",
+    "name": "PROXIMIDAD ROTONDA",
+    "category": "Advertencia de Peligro",
+    "page": 155,
+    "imageUrl": "/signs/catalog/p155-r1-c1.png",
+    "sourceKey": "p155-r1-c1",
+    "source": {
+      "page": 155,
+      "row": 1,
+      "column": 1,
+      "image": "public/pages/page-155.jpg",
+      "crop": [
+        82,
+        144,
+        150,
+        124
+      ],
+      "captionBounds": [
+        110.339,
+        273.795,
+        204.682,
+        317.395
+      ],
+      "caption": "PROXIMIDAD ROTONDA",
+      "displayCaption": "PROXIMIDAD ROTONDA"
+    }
+  },
+  {
+    "id": "sig-101",
+    "name": "CRUCES BIFURCACIONES Y CONVERGENCIAS",
+    "category": "Advertencia de Peligro",
+    "page": 155,
+    "imageUrl": "/signs/catalog/p155-r1-c2.png",
+    "sourceKey": "p155-r1-c2",
+    "source": {
+      "page": 155,
+      "row": 1,
+      "column": 2,
+      "image": "public/pages/page-155.jpg",
+      "crop": [
+        259,
+        144,
+        150,
+        124
+      ],
+      "captionBounds": [
+        275.55,
+        274.24,
+        392.739,
+        332.147
+      ],
+      "caption": "CRUCES BIFURCACIONES Y CONVERGENCIAS",
+      "displayCaption": "CRUCES BIFURCACIONES Y CONVERGENCIAS"
+    }
+  },
+  {
+    "id": "sig-p155-r1-c3",
+    "name": "CRUCES BIFURCACIONES Y CONVERGENCIAS",
+    "category": "Advertencia de Peligro",
+    "page": 155,
+    "imageUrl": "/signs/catalog/p155-r1-c3.png",
+    "sourceKey": "p155-r1-c3",
+    "source": {
+      "page": 155,
+      "row": 1,
+      "column": 3,
+      "image": "public/pages/page-155.jpg",
+      "crop": [
+        436,
+        144,
+        150,
+        124
+      ],
+      "captionBounds": [
+        452.825,
+        274.24,
+        570.014,
+        332.147
+      ],
+      "caption": "CRUCES BIFURCACIONES Y CONVERGENCIAS",
+      "displayCaption": "CRUCES BIFURCACIONES Y CONVERGENCIAS"
+    }
+  },
+  {
+    "id": "sig-p155-r1-c4",
+    "name": "CRUCES BIFURCACIONES Y CONVERGENCIAS",
+    "category": "Advertencia de Peligro",
+    "page": 155,
+    "imageUrl": "/signs/catalog/p155-r1-c4.png",
+    "sourceKey": "p155-r1-c4",
+    "source": {
+      "page": 155,
+      "row": 1,
+      "column": 4,
+      "image": "public/pages/page-155.jpg",
+      "crop": [
+        613,
+        144,
+        150,
+        124
+      ],
+      "captionBounds": [
+        628.83,
+        274.24,
+        746.019,
+        332.147
+      ],
+      "caption": "CRUCES BIFURCACIONES Y CONVERGENCIAS",
+      "displayCaption": "CRUCES BIFURCACIONES Y CONVERGENCIAS"
+    }
+  },
+  {
+    "id": "sig-p155-r1-c5",
+    "name": "CRUCES BIFURCACIONES Y CONVERGENCIAS",
+    "category": "Advertencia de Peligro",
+    "page": 155,
+    "imageUrl": "/signs/catalog/p155-r1-c5.png",
+    "sourceKey": "p155-r1-c5",
+    "source": {
+      "page": 155,
+      "row": 1,
+      "column": 5,
+      "image": "public/pages/page-155.jpg",
+      "crop": [
+        790,
+        144,
+        150,
+        124
+      ],
+      "captionBounds": [
+        805.848,
+        274.24,
+        923.037,
+        332.147
+      ],
+      "caption": "CRUCES BIFURCACIONES Y CONVERGENCIAS",
+      "displayCaption": "CRUCES BIFURCACIONES Y CONVERGENCIAS"
+    }
+  },
+  {
+    "id": "sig-p155-r2-c1",
+    "name": "CRUCES BIFURCACIONES Y CONVERGENCIAS",
+    "category": "Advertencia de Peligro",
+    "page": 155,
+    "imageUrl": "/signs/catalog/p155-r2-c1.png",
+    "sourceKey": "p155-r2-c1",
+    "source": {
+      "page": 155,
+      "row": 2,
+      "column": 1,
+      "image": "public/pages/page-155.jpg",
+      "crop": [
+        82,
+        368,
+        150,
+        123
+      ],
+      "captionBounds": [
+        98.909,
+        497.105,
+        216.098,
+        555.012
+      ],
+      "caption": "CRUCES BIFURCACIONES Y CONVERGENCIAS",
+      "displayCaption": "CRUCES BIFURCACIONES Y CONVERGENCIAS"
+    }
+  },
+  {
+    "id": "sig-p155-r2-c2",
+    "name": "CRUCES BIFURCACIONES Y CONVERGENCIAS",
+    "category": "Advertencia de Peligro",
+    "page": 155,
+    "imageUrl": "/signs/catalog/p155-r2-c2.png",
+    "sourceKey": "p155-r2-c2",
+    "source": {
+      "page": 155,
+      "row": 2,
+      "column": 2,
+      "image": "public/pages/page-155.jpg",
+      "crop": [
+        259,
+        368,
+        150,
+        123
+      ],
+      "captionBounds": [
+        275.55,
+        497.105,
+        392.739,
+        555.012
+      ],
+      "caption": "CRUCES BIFURCACIONES Y CONVERGENCIAS",
+      "displayCaption": "CRUCES BIFURCACIONES Y CONVERGENCIAS"
+    }
+  },
+  {
+    "id": "sig-p155-r2-c3",
+    "name": "CRUCES BIFURCACIONES Y CONVERGENCIAS",
+    "category": "Advertencia de Peligro",
+    "page": 155,
+    "imageUrl": "/signs/catalog/p155-r2-c3.png",
+    "sourceKey": "p155-r2-c3",
+    "source": {
+      "page": 155,
+      "row": 2,
+      "column": 3,
+      "image": "public/pages/page-155.jpg",
+      "crop": [
+        436,
+        368,
+        150,
+        123
+      ],
+      "captionBounds": [
+        452.825,
+        497.105,
+        570.014,
+        555.012
+      ],
+      "caption": "CRUCES BIFURCACIONES Y CONVERGENCIAS",
+      "displayCaption": "CRUCES BIFURCACIONES Y CONVERGENCIAS"
+    }
+  },
+  {
+    "id": "sig-p155-r2-c4",
+    "name": "CRUCES BIFURCACIONES Y CONVERGENCIAS",
+    "category": "Advertencia de Peligro",
+    "page": 155,
+    "imageUrl": "/signs/catalog/p155-r2-c4.png",
+    "sourceKey": "p155-r2-c4",
+    "source": {
+      "page": 155,
+      "row": 2,
+      "column": 4,
+      "image": "public/pages/page-155.jpg",
+      "crop": [
+        613,
+        368,
+        150,
+        123
+      ],
+      "captionBounds": [
+        628.83,
+        497.105,
+        746.019,
+        555.012
+      ],
+      "caption": "CRUCES BIFURCACIONES Y CONVERGENCIAS",
+      "displayCaption": "CRUCES BIFURCACIONES Y CONVERGENCIAS"
+    }
+  },
+  {
+    "id": "sig-p155-r2-c5",
+    "name": "CRUCES BIFURCACIONES Y CONVERGENCIAS",
+    "category": "Advertencia de Peligro",
+    "page": 155,
+    "imageUrl": "/signs/catalog/p155-r2-c5.png",
+    "sourceKey": "p155-r2-c5",
+    "source": {
+      "page": 155,
+      "row": 2,
+      "column": 5,
+      "image": "public/pages/page-155.jpg",
+      "crop": [
+        790,
+        368,
+        150,
+        123
+      ],
+      "captionBounds": [
+        805.848,
+        497.105,
+        923.037,
+        555.012
+      ],
+      "caption": "CRUCES BIFURCACIONES Y CONVERGENCIAS",
+      "displayCaption": "CRUCES BIFURCACIONES Y CONVERGENCIAS"
+    }
+  },
+  {
+    "id": "sig-102",
+    "name": "DOS SENTIDOS DE TRÁNSITO",
+    "category": "Advertencia de Peligro",
+    "page": 155,
+    "imageUrl": "/signs/catalog/p155-r3-c1.png",
+    "sourceKey": "p155-r3-c1",
+    "source": {
+      "page": 155,
+      "row": 3,
+      "column": 1,
+      "image": "public/pages/page-155.jpg",
+      "crop": [
+        82,
+        592,
+        150,
+        124
+      ],
+      "captionBounds": [
+        91.779,
+        720.705,
+        222.986,
+        764.305
+      ],
+      "caption": "DOS SENTIDOS DE TRÁNSITO",
+      "displayCaption": "DOS SENTIDOS DE TRÁNSITO"
+    }
+  },
+  {
+    "id": "sig-103",
+    "name": "CICLISTAS EN LA VÍA",
+    "category": "Advertencia de Peligro",
+    "page": 155,
+    "imageUrl": "/signs/catalog/p155-r3-c2.png",
+    "sourceKey": "p155-r3-c2",
+    "source": {
+      "page": 155,
+      "row": 3,
+      "column": 2,
+      "image": "public/pages/page-155.jpg",
+      "crop": [
+        259,
+        592,
+        150,
+        124
+      ],
+      "captionBounds": [
+        297.587,
+        720.705,
+        370.48,
+        764.305
+      ],
+      "caption": "CICLISTAS EN LA VÍA",
+      "displayCaption": "CICLISTAS EN LA VÍA"
+    }
+  },
+  {
+    "id": "sig-104",
+    "name": "MAQUINARIA AGRÍCOLA",
+    "category": "Advertencia de Peligro",
+    "page": 155,
+    "imageUrl": "/signs/catalog/p155-r3-c3.png",
+    "sourceKey": "p155-r3-c3",
+    "source": {
+      "page": 155,
+      "row": 3,
+      "column": 3,
+      "image": "public/pages/page-155.jpg",
+      "crop": [
+        436,
+        592,
+        150,
+        124
+      ],
+      "captionBounds": [
+        463.12,
+        720.705,
+        559.49,
+        764.305
+      ],
+      "caption": "MAQUINARIA AGRÍCOLA",
+      "displayCaption": "MAQUINARIA AGRÍCOLA"
+    }
+  },
+  {
+    "id": "sig-105",
+    "name": "CARRETELAS EN LA VÍA",
+    "category": "Advertencia de Peligro",
+    "page": 155,
+    "imageUrl": "/signs/catalog/p155-r3-c4.png",
+    "sourceKey": "p155-r3-c4",
+    "source": {
+      "page": 155,
+      "row": 3,
+      "column": 4,
+      "image": "public/pages/page-155.jpg",
+      "crop": [
+        613,
+        592,
+        150,
+        124
+      ],
+      "captionBounds": [
+        641.325,
+        720.705,
+        733.295,
+        764.305
+      ],
+      "caption": "CARRETELAS EN LA VÍA",
+      "displayCaption": "CARRETELAS EN LA VÍA"
+    }
+  },
+  {
+    "id": "sig-106",
+    "name": "ANIMALES EN LA VÍA",
+    "category": "Advertencia de Peligro",
+    "page": 155,
+    "imageUrl": "/signs/catalog/p155-r3-c5.png",
+    "sourceKey": "p155-r3-c5",
+    "source": {
+      "page": 155,
+      "row": 3,
+      "column": 5,
+      "image": "public/pages/page-155.jpg",
+      "crop": [
+        790,
+        592,
+        150,
+        124
+      ],
+      "captionBounds": [
+        826.27,
+        720.705,
+        902.388,
+        764.305
+      ],
+      "caption": "ANIMALES EN LA VÍA",
+      "displayCaption": "ANIMALES EN LA VÍA"
+    }
+  },
+  {
+    "id": "sig-p155-r4-c1",
+    "name": "ANIMALES EN LA VÍA",
+    "category": "Advertencia de Peligro",
+    "page": 155,
+    "imageUrl": "/signs/catalog/p155-r4-c1.png",
+    "sourceKey": "p155-r4-c1",
+    "source": {
+      "page": 155,
+      "row": 4,
+      "column": 1,
+      "image": "public/pages/page-155.jpg",
+      "crop": [
+        82,
+        801,
+        150,
+        124
+      ],
+      "captionBounds": [
+        119.332,
+        930.187,
+        195.451,
+        973.787
+      ],
+      "caption": "ANIMALES EN LA VÍA",
+      "displayCaption": "ANIMALES EN LA VÍA"
+    }
+  },
+  {
+    "id": "sig-107",
+    "name": "ZONA DE PEATONES",
+    "category": "Advertencia de Peligro",
+    "page": 155,
+    "imageUrl": "/signs/catalog/p155-r4-c2.png",
+    "sourceKey": "p155-r4-c2",
+    "source": {
+      "page": 155,
+      "row": 4,
+      "column": 2,
+      "image": "public/pages/page-155.jpg",
+      "crop": [
+        259,
+        801,
+        150,
+        124
+      ],
+      "captionBounds": [
+        262.843,
+        930.187,
+        405.207,
+        953.787
+      ],
+      "caption": "ZONA DE PEATONES",
+      "displayCaption": "ZONA DE PEATONES"
+    }
+  },
+  {
+    "id": "sig-108",
+    "name": "PROXIMIDAD DE PASO DE CEBRA",
+    "category": "Advertencia de Peligro",
+    "page": 155,
+    "imageUrl": "/signs/catalog/p155-r4-c3.png",
+    "sourceKey": "p155-r4-c3",
+    "source": {
+      "page": 155,
+      "row": 4,
+      "column": 3,
+      "image": "public/pages/page-155.jpg",
+      "crop": [
+        436,
+        801,
+        150,
+        124
+      ],
+      "captionBounds": [
+        452.382,
+        930.187,
+        570.225,
+        973.787
+      ],
+      "caption": "PROXIMIDAD DE PASO DE CEBRA",
+      "displayCaption": "PROXIMIDAD DE PASO DE CEBRA"
+    }
+  },
+  {
+    "id": "sig-109",
+    "name": "ZONA DE ESCUELA",
+    "category": "Advertencia de Peligro",
+    "page": 155,
+    "imageUrl": "/signs/catalog/p155-r4-c4.png",
+    "sourceKey": "p155-r4-c4",
+    "source": {
+      "page": 155,
+      "row": 4,
+      "column": 4,
+      "image": "public/pages/page-155.jpg",
+      "crop": [
+        613,
+        801,
+        150,
+        124
+      ],
+      "captionBounds": [
+        642.958,
+        930.187,
+        731.66,
+        973.787
+      ],
+      "caption": "ZONA DE ESCUELA",
+      "displayCaption": "ZONA DE ESCUELA"
+    }
+  },
+  {
+    "id": "sig-110",
+    "name": "NIÑOS JUGANDO",
+    "category": "Advertencia de Peligro",
+    "page": 155,
+    "imageUrl": "/signs/catalog/p155-r4-c5.png",
+    "sourceKey": "p155-r4-c5",
+    "source": {
+      "page": 155,
+      "row": 4,
+      "column": 5,
+      "image": "public/pages/page-155.jpg",
+      "crop": [
+        790,
+        801,
+        150,
+        124
+      ],
+      "captionBounds": [
+        802.955,
+        930.187,
+        925.692,
+        953.787
+      ],
+      "caption": "NIÑOS JUGANDO",
+      "displayCaption": "NIÑOS JUGANDO"
+    }
+  },
+  {
+    "id": "sig-111",
+    "name": "PROXIMIDAD DE SEMÁFORO",
+    "category": "Advertencia de Peligro",
+    "page": 155,
+    "imageUrl": "/signs/catalog/p155-r5-c1.png",
+    "sourceKey": "p155-r5-c1",
+    "source": {
+      "page": 155,
+      "row": 5,
+      "column": 1,
+      "image": "public/pages/page-155.jpg",
+      "crop": [
+        82,
+        1011,
+        150,
+        124
+      ],
+      "captionBounds": [
+        98.466,
+        1139.667,
+        216.309,
+        1183.267
+      ],
+      "caption": "PROXIMIDAD DE SEMÁFORO",
+      "displayCaption": "PROXIMIDAD DE SEMÁFORO"
+    }
+  },
+  {
+    "id": "sig-112",
+    "name": "PROXIMIDAD DE SEÑAL “CEDA EL PASO”",
+    "category": "Advertencia de Peligro",
+    "page": 155,
+    "imageUrl": "/signs/catalog/p155-r5-c2.png",
+    "sourceKey": "p155-r5-c2",
+    "source": {
+      "page": 155,
+      "row": 5,
+      "column": 2,
+      "image": "public/pages/page-155.jpg",
+      "crop": [
+        259,
+        1011,
+        150,
+        124
+      ],
+      "captionBounds": [
+        282.027,
+        1140.112,
+        386.034,
+        1198.019
+      ],
+      "caption": "PROXIMIDAD DE SEÑAL “CEDA EL PASO”",
+      "displayCaption": "PROXIMIDAD DE SEÑAL “CEDA EL PASO”"
+    }
+  },
+  {
+    "id": "sig-113",
+    "name": "PROXIMIDAD DE SEÑAL “PARE”",
+    "category": "Advertencia de Peligro",
+    "page": 155,
+    "imageUrl": "/signs/catalog/p155-r5-c3.png",
+    "sourceKey": "p155-r5-c3",
+    "source": {
+      "page": 155,
+      "row": 5,
+      "column": 3,
+      "image": "public/pages/page-155.jpg",
+      "crop": [
+        436,
+        1011,
+        150,
+        124
+      ],
+      "captionBounds": [
+        452.382,
+        1139.667,
+        570.225,
+        1183.267
+      ],
+      "caption": "PROXIMIDAD DE SEÑAL “PARE”",
+      "displayCaption": "PROXIMIDAD DE SEÑAL “PARE”"
+    }
+  },
+  {
+    "id": "sig-114",
+    "name": "CRUCE CICLISTA",
+    "category": "Advertencia de Peligro",
+    "page": 155,
+    "imageUrl": "/signs/catalog/p155-r5-c4.png",
+    "sourceKey": "p155-r5-c4",
+    "source": {
+      "page": 155,
+      "row": 5,
+      "column": 4,
+      "image": "public/pages/page-155.jpg",
+      "crop": [
+        613,
+        1011,
+        150,
+        124
+      ],
+      "captionBounds": [
+        629.068,
+        1139.667,
+        745.545,
+        1163.267
+      ],
+      "caption": "CRUCE CICLISTA",
+      "displayCaption": "CRUCE CICLISTA"
+    }
+  },
+  {
+    "id": "sig-115",
+    "name": "SALIDA CARRO BOMBEROS",
+    "category": "Advertencia de Peligro",
+    "page": 155,
+    "imageUrl": "/signs/catalog/p155-r5-c5.png",
+    "sourceKey": "p155-r5-c5",
+    "source": {
+      "page": 155,
+      "row": 5,
+      "column": 5,
+      "image": "public/pages/page-155.jpg",
+      "crop": [
+        790,
+        1011,
+        150,
+        124
+      ],
+      "captionBounds": [
+        811.205,
+        1139.667,
+        917.448,
+        1183.267
+      ],
+      "caption": "SALIDA CARRO BOMBEROS",
+      "displayCaption": "SALIDA CARRO BOMBEROS"
+    }
+  },
+  {
+    "id": "sig-116",
+    "name": "ZONA DE DERRUMBES",
+    "category": "Advertencia de Peligro",
+    "page": 156,
+    "imageUrl": "/signs/catalog/p156-r1-c1.png",
+    "sourceKey": "p156-r1-c1",
+    "source": {
+      "page": 156,
+      "row": 1,
+      "column": 1,
+      "image": "public/pages/page-156.jpg",
+      "crop": [
+        82,
+        144,
+        150,
+        124
+      ],
+      "captionBounds": [
+        112.214,
+        273.795,
+        202.569,
+        317.395
+      ],
+      "caption": "ZONA DE DERRUMBES",
+      "displayCaption": "ZONA DE DERRUMBES"
+    }
+  },
+  {
+    "id": "sig-117",
+    "name": "PAVIMENTO RESBALADIZO",
+    "category": "Advertencia de Peligro",
+    "page": 156,
+    "imageUrl": "/signs/catalog/p156-r1-c2.png",
+    "sourceKey": "p156-r1-c2",
+    "source": {
+      "page": 156,
+      "row": 1,
+      "column": 2,
+      "image": "public/pages/page-156.jpg",
+      "crop": [
+        259,
+        144,
+        150,
+        124
+      ],
+      "captionBounds": [
+        283.385,
+        273.795,
+        384.675,
+        317.395
+      ],
+      "caption": "PAVIMENTO RESBALADIZO",
+      "displayCaption": "PAVIMENTO RESBALADIZO"
+    }
+  },
+  {
+    "id": "sig-118",
+    "name": "DESNIVEL SEVERO",
+    "category": "Advertencia de Peligro",
+    "page": 156,
+    "imageUrl": "/signs/catalog/p156-r1-c3.png",
+    "sourceKey": "p156-r1-c3",
+    "source": {
+      "page": 156,
+      "row": 1,
+      "column": 3,
+      "image": "public/pages/page-156.jpg",
+      "crop": [
+        436,
+        144,
+        150,
+        124
+      ],
+      "captionBounds": [
+        445.22,
+        273.795,
+        577.377,
+        297.395
+      ],
+      "caption": "DESNIVEL SEVERO",
+      "displayCaption": "DESNIVEL SEVERO"
+    }
+  },
+  {
+    "id": "sig-119",
+    "name": "RUTA ALTERNATIVA",
+    "category": "Informativas",
+    "page": 156,
+    "imageUrl": "/signs/catalog/p156-r2-c1.png",
+    "sourceKey": "p156-r2-c1",
+    "source": {
+      "page": 156,
+      "row": 2,
+      "column": 1,
+      "image": "public/pages/page-156.jpg",
+      "crop": [
+        84,
+        517,
+        194,
+        176
+      ],
+      "captionBounds": [
+        112.353,
+        698.85,
+        249.403,
+        722.45
+      ],
+      "caption": "RUTA ALTERNATIVA",
+      "displayCaption": "RUTA ALTERNATIVA"
+    }
+  },
+  {
+    "id": "sig-120",
+    "name": "SALIDA INMEDIATA",
+    "category": "Informativas",
+    "page": 156,
+    "imageUrl": "/signs/catalog/p156-r2-c2.png",
+    "sourceKey": "p156-r2-c2",
+    "source": {
+      "page": 156,
+      "row": 2,
+      "column": 2,
+      "image": "public/pages/page-156.jpg",
+      "crop": [
+        305,
+        517,
+        194,
+        176
+      ],
+      "captionBounds": [
+        334.005,
+        698.85,
+        471.535,
+        722.45
+      ],
+      "caption": "SALIDA INMEDIATA",
+      "displayCaption": "SALIDA INMEDIATA"
+    }
+  },
+  {
+    "id": "sig-121",
+    "name": "BALIZAS DE ACERCAMIENTO",
+    "category": "Informativas",
+    "page": 156,
+    "imageUrl": "/signs/catalog/p156-r2-c3.png",
+    "sourceKey": "p156-r2-c3",
+    "source": {
+      "page": 156,
+      "row": 2,
+      "column": 3,
+      "image": "public/pages/page-156.jpg",
+      "crop": [
+        526,
+        517,
+        194,
+        176
+      ],
+      "captionBounds": [
+        565.747,
+        698.85,
+        680.69,
+        742.45
+      ],
+      "caption": "BALIZAS DE ACERCAMIENTO",
+      "displayCaption": "BALIZAS DE ACERCAMIENTO"
+    }
+  },
+  {
+    "id": "sig-122",
+    "name": "NOMBRE Y NUMERACIÓN DE CALLE",
+    "category": "Informativas",
+    "page": 156,
+    "imageUrl": "/signs/catalog/p156-r2-c4.png",
+    "sourceKey": "p156-r2-c4",
+    "source": {
+      "page": 156,
+      "row": 2,
+      "column": 4,
+      "image": "public/pages/page-156.jpg",
+      "crop": [
+        743,
+        517,
+        194,
+        176
+      ],
+      "captionBounds": [
+        748.847,
+        698.85,
+        930.787,
+        742.45
+      ],
+      "caption": "NOMBRE Y NUMERACIÓN DE CALLE",
+      "displayCaption": "NOMBRE Y NUMERACIÓN DE CALLE"
+    }
+  },
+  {
+    "id": "sig-123",
+    "name": "DE CONFIRMACIÓN",
+    "category": "Informativas",
+    "page": 156,
+    "imageUrl": "/signs/catalog/p156-r3-c1.png",
+    "sourceKey": "p156-r3-c1",
+    "source": {
+      "page": 156,
+      "row": 3,
+      "column": 1,
+      "image": "public/pages/page-156.jpg",
+      "crop": [
+        84,
+        778,
+        194,
+        151
+      ],
+      "captionBounds": [
+        111.204,
+        934.062,
+        250.544,
+        957.662
+      ],
+      "caption": "DE CONFIRMACIÓN",
+      "displayCaption": "DE CONFIRMACIÓN"
+    }
+  },
+  {
+    "id": "sig-124",
+    "name": "DE DIRECCIÓN",
+    "category": "Informativas",
+    "page": 156,
+    "imageUrl": "/signs/catalog/p156-r3-c2.png",
+    "sourceKey": "p156-r3-c2",
+    "source": {
+      "page": 156,
+      "row": 3,
+      "column": 2,
+      "image": "public/pages/page-156.jpg",
+      "crop": [
+        305,
+        778,
+        194,
+        151
+      ],
+      "captionBounds": [
+        350.795,
+        934.062,
+        454.75,
+        957.662
+      ],
+      "caption": "DE DIRECCIÓN",
+      "displayCaption": "DE DIRECCIÓN"
+    }
+  },
+  {
+    "id": "sig-125",
+    "name": "DE LOCALIZACIÓN",
+    "category": "Informativas",
+    "page": 156,
+    "imageUrl": "/signs/catalog/p156-r3-c3.png",
+    "sourceKey": "p156-r3-c3",
+    "source": {
+      "page": 156,
+      "row": 3,
+      "column": 3,
+      "image": "public/pages/page-156.jpg",
+      "crop": [
+        526,
+        778,
+        194,
+        151
+      ],
+      "captionBounds": [
+        557.3,
+        934.062,
+        689.122,
+        957.662
+      ],
+      "caption": "DE LOCALIZACIÓN",
+      "displayCaption": "DE LOCALIZACIÓN"
+    }
+  },
+  {
+    "id": "sig-126",
+    "name": "ESCUDO NUMERACIÓN DE CAMINOS",
+    "category": "Informativas",
+    "page": 156,
+    "imageUrl": "/signs/catalog/p156-r3-c4.png",
+    "sourceKey": "p156-r3-c4",
+    "source": {
+      "page": 156,
+      "row": 3,
+      "column": 4,
+      "image": "public/pages/page-156.jpg",
+      "crop": [
+        743,
+        778,
+        194,
+        151
+      ],
+      "captionBounds": [
+        757.442,
+        934.062,
+        922.202,
+        977.662
+      ],
+      "caption": "ESCUDO NUMERACIÓN DE CAMINOS",
+      "displayCaption": "ESCUDO NUMERACIÓN DE CAMINOS"
+    }
+  },
+  {
+    "id": "sig-127",
+    "name": "AEROPUERTO",
+    "category": "Informativas",
+    "page": 157,
+    "imageUrl": "/signs/catalog/p157-r1-c1.png",
+    "sourceKey": "p157-r1-c1",
+    "source": {
+      "page": 157,
+      "row": 1,
+      "column": 1,
+      "image": "public/pages/page-157.jpg",
+      "crop": [
+        82,
+        215,
+        150,
+        125
+      ],
+      "captionBounds": [
+        110.832,
+        344.46,
+        205.659,
+        368.06
+      ],
+      "caption": "AEROPUERTO",
+      "displayCaption": "AEROPUERTO"
+    }
+  },
+  {
+    "id": "sig-128",
+    "name": "ALIMENTACIÓN RESTAURANT",
+    "category": "Informativas",
+    "page": 157,
+    "imageUrl": "/signs/catalog/p157-r1-c2.png",
+    "sourceKey": "p157-r1-c2",
+    "source": {
+      "page": 157,
+      "row": 1,
+      "column": 2,
+      "image": "public/pages/page-157.jpg",
+      "crop": [
+        259,
+        215,
+        150,
+        125
+      ],
+      "captionBounds": [
+        279.212,
+        344.46,
+        390.55,
+        388.06
+      ],
+      "caption": "ALIMENTACIÓN RESTAURANT",
+      "displayCaption": "ALIMENTACIÓN RESTAURANT"
+    }
+  },
+  {
+    "id": "sig-129",
+    "name": "ALOJAMIENTO",
+    "category": "Informativas",
+    "page": 157,
+    "imageUrl": "/signs/catalog/p157-r1-c3.png",
+    "sourceKey": "p157-r1-c3",
+    "source": {
+      "page": 157,
+      "row": 1,
+      "column": 3,
+      "image": "public/pages/page-157.jpg",
+      "crop": [
+        436,
+        215,
+        150,
+        125
+      ],
+      "captionBounds": [
+        461.23,
+        344.46,
+        563.093,
+        368.06
+      ],
+      "caption": "ALOJAMIENTO",
+      "displayCaption": "ALOJAMIENTO"
+    }
+  },
+  {
+    "id": "sig-130",
+    "name": "TELÉFONO PÚBLICO",
+    "category": "Informativas",
+    "page": 157,
+    "imageUrl": "/signs/catalog/p157-r1-c4.png",
+    "sourceKey": "p157-r1-c4",
+    "source": {
+      "page": 157,
+      "row": 1,
+      "column": 4,
+      "image": "public/pages/page-157.jpg",
+      "crop": [
+        613,
+        215,
+        150,
+        125
+      ],
+      "captionBounds": [
+        650.657,
+        344.46,
+        725.677,
+        388.06
+      ],
+      "caption": "TELÉFONO PÚBLICO",
+      "displayCaption": "TELÉFONO PÚBLICO"
+    }
+  },
+  {
+    "id": "sig-131",
+    "name": "PRIMEROS AUXILIOS HOSPITAL",
+    "category": "Informativas",
+    "page": 157,
+    "imageUrl": "/signs/catalog/p157-r1-c5.png",
+    "sourceKey": "p157-r1-c5",
+    "source": {
+      "page": 157,
+      "row": 1,
+      "column": 5,
+      "image": "public/pages/page-157.jpg",
+      "crop": [
+        790,
+        215,
+        150,
+        125
+      ],
+      "captionBounds": [
+        798.765,
+        344.905,
+        931.587,
+        384.478
+      ],
+      "caption": "PRIMEROS AUXILIOS HOSPITAL",
+      "displayCaption": "PRIMEROS AUXILIOS HOSPITAL"
+    }
+  },
+  {
+    "id": "sig-132",
+    "name": "SERVICIOS HIGIÉNICOS",
+    "category": "Informativas",
+    "page": 157,
+    "imageUrl": "/signs/catalog/p157-r2-c1.png",
+    "sourceKey": "p157-r2-c1",
+    "source": {
+      "page": 157,
+      "row": 2,
+      "column": 1,
+      "image": "public/pages/page-157.jpg",
+      "crop": [
+        82,
+        424,
+        150,
+        124
+      ],
+      "captionBounds": [
+        115.441,
+        552.773,
+        201.047,
+        596.373
+      ],
+      "caption": "SERVICIOS HIGIÉNICOS",
+      "displayCaption": "SERVICIOS HIGIÉNICOS"
+    }
+  },
+  {
+    "id": "sig-133",
+    "name": "ACANTILADO",
+    "category": "Informativas",
+    "page": 157,
+    "imageUrl": "/signs/catalog/p157-r2-c2.png",
+    "sourceKey": "p157-r2-c2",
+    "source": {
+      "page": 157,
+      "row": 2,
+      "column": 2,
+      "image": "public/pages/page-157.jpg",
+      "crop": [
+        259,
+        424,
+        150,
+        124
+      ],
+      "captionBounds": [
+        287.515,
+        552.773,
+        382.252,
+        576.373
+      ],
+      "caption": "ACANTILADO",
+      "displayCaption": "ACANTILADO"
+    }
+  },
+  {
+    "id": "sig-134",
+    "name": "CASINO",
+    "category": "Informativas",
+    "page": 157,
+    "imageUrl": "/signs/catalog/p157-r2-c3.png",
+    "sourceKey": "p157-r2-c3",
+    "source": {
+      "page": 157,
+      "row": 2,
+      "column": 3,
+      "image": "public/pages/page-157.jpg",
+      "crop": [
+        436,
+        424,
+        150,
+        124
+      ],
+      "captionBounds": [
+        484.147,
+        552.773,
+        540.183,
+        576.373
+      ],
+      "caption": "CASINO",
+      "displayCaption": "CASINO"
+    }
+  },
+  {
+    "id": "sig-135",
+    "name": "CABALGATA",
+    "category": "Informativas",
+    "page": 157,
+    "imageUrl": "/signs/catalog/p157-r2-c4.png",
+    "sourceKey": "p157-r2-c4",
+    "source": {
+      "page": 157,
+      "row": 2,
+      "column": 4,
+      "image": "public/pages/page-157.jpg",
+      "crop": [
+        613,
+        424,
+        150,
+        124
+      ],
+      "captionBounds": [
+        646.313,
+        552.773,
+        730.022,
+        576.373
+      ],
+      "caption": "CABALGATA",
+      "displayCaption": "CABALGATA"
+    }
+  },
+  {
+    "id": "sig-136",
+    "name": "ARTESANÍA",
+    "category": "Informativas",
+    "page": 157,
+    "imageUrl": "/signs/catalog/p157-r2-c5.png",
+    "sourceKey": "p157-r2-c5",
+    "source": {
+      "page": 157,
+      "row": 2,
+      "column": 5,
+      "image": "public/pages/page-157.jpg",
+      "crop": [
+        790,
+        424,
+        150,
+        124
+      ],
+      "captionBounds": [
+        824.882,
+        552.773,
+        905.492,
+        576.373
+      ],
+      "caption": "ARTESANÍA",
+      "displayCaption": "ARTESANÍA"
+    }
+  },
+  {
+    "id": "sig-137",
+    "name": "BUCEO",
+    "category": "Informativas",
+    "page": 157,
+    "imageUrl": "/signs/catalog/p157-r3-c1.png",
+    "sourceKey": "p157-r3-c1",
+    "source": {
+      "page": 157,
+      "row": 3,
+      "column": 1,
+      "image": "public/pages/page-157.jpg",
+      "crop": [
+        82,
+        632,
+        150,
+        124
+      ],
+      "captionBounds": [
+        133.882,
+        760.557,
+        182.619,
+        784.157
+      ],
+      "caption": "BUSEO",
+      "displayCaption": "BUCEO"
+    }
+  },
+  {
+    "id": "sig-138",
+    "name": "CANOPY/TIROLESA",
+    "category": "Informativas",
+    "page": 157,
+    "imageUrl": "/signs/catalog/p157-r3-c2.png",
+    "sourceKey": "p157-r3-c2",
+    "source": {
+      "page": 157,
+      "row": 3,
+      "column": 2,
+      "image": "public/pages/page-157.jpg",
+      "crop": [
+        259,
+        632,
+        150,
+        124
+      ],
+      "captionBounds": [
+        268.282,
+        760.557,
+        401.483,
+        784.157
+      ],
+      "caption": "CANOPY/TIROLESA",
+      "displayCaption": "CANOPY/TIROLESA"
+    }
+  },
+  {
+    "id": "sig-139",
+    "name": "SALIDA LATERAL DERECHA",
+    "category": "Informativas",
+    "page": 158,
+    "imageUrl": "/signs/catalog/p158-r1-c1.png",
+    "sourceKey": "p158-r1-c1",
+    "source": {
+      "page": 158,
+      "row": 1,
+      "column": 1,
+      "image": "public/pages/page-158.jpg",
+      "crop": [
+        82,
+        190,
+        150,
+        124
+      ],
+      "captionBounds": [
+        99.135,
+        319.455,
+        217.348,
+        363.055
+      ],
+      "caption": "SALIDA LATERAL DERECHA",
+      "displayCaption": "SALIDA LATERAL DERECHA"
+    }
+  },
+  {
+    "id": "sig-140",
+    "name": "INICIO DE AUTOPISTA",
+    "category": "Informativas",
+    "page": 158,
+    "imageUrl": "/signs/catalog/p158-r1-c2.png",
+    "sourceKey": "p158-r1-c2",
+    "source": {
+      "page": 158,
+      "row": 1,
+      "column": 2,
+      "image": "public/pages/page-158.jpg",
+      "crop": [
+        259,
+        190,
+        150,
+        124
+      ],
+      "captionBounds": [
+        294.837,
+        319.455,
+        373.583,
+        363.055
+      ],
+      "caption": "INICIO DE AUTOPISTA",
+      "displayCaption": "INICIO DE AUTOPISTA"
+    }
+  },
+  {
+    "id": "sig-141",
+    "name": "FIN DE AUTOPISTA",
+    "category": "Informativas",
+    "page": 158,
+    "imageUrl": "/signs/catalog/p158-r1-c3.png",
+    "sourceKey": "p158-r1-c3",
+    "source": {
+      "page": 158,
+      "row": 1,
+      "column": 3,
+      "image": "public/pages/page-158.jpg",
+      "crop": [
+        436,
+        190,
+        150,
+        124
+      ],
+      "captionBounds": [
+        471.117,
+        319.455,
+        549.863,
+        363.055
+      ],
+      "caption": "FIN DE AUTOPISTA",
+      "displayCaption": "FIN DE AUTOPISTA"
+    }
+  },
+  {
+    "id": "sig-142",
+    "name": "RETORNO EN AUTOPISTA",
+    "category": "Informativas",
+    "page": 158,
+    "imageUrl": "/signs/catalog/p158-r1-c4.png",
+    "sourceKey": "p158-r1-c4",
+    "source": {
+      "page": 158,
+      "row": 1,
+      "column": 4,
+      "image": "public/pages/page-158.jpg",
+      "crop": [
+        613,
+        190,
+        150,
+        124
+      ],
+      "captionBounds": [
+        640.308,
+        319.455,
+        731.945,
+        363.055
+      ],
+      "caption": "RETORNO EN AUTOPISTA",
+      "displayCaption": "RETORNO EN AUTOPISTA"
+    }
+  },
+  {
+    "id": "sig-143",
+    "name": "TELÉFONO DE EMERGENCIA",
+    "category": "Informativas",
+    "page": 158,
+    "imageUrl": "/signs/catalog/p158-r1-c5.png",
+    "sourceKey": "p158-r1-c5",
+    "source": {
+      "page": 158,
+      "row": 1,
+      "column": 5,
+      "image": "public/pages/page-158.jpg",
+      "crop": [
+        790,
+        190,
+        150,
+        124
+      ],
+      "captionBounds": [
+        813.015,
+        319.455,
+        911.535,
+        363.055
+      ],
+      "caption": "TELÉFONO DE EMERGENCIA",
+      "displayCaption": "TELÉFONO DE EMERGENCIA"
+    }
+  },
+  {
+    "id": "sig-144",
+    "name": "AUTOPISTA CON TELEVÍA O SISTEMA COMPLEMENTARIO",
+    "category": "Informativas",
+    "page": 158,
+    "imageUrl": "/signs/catalog/p158-r2-c1.png",
+    "sourceKey": "p158-r2-c1",
+    "source": {
+      "page": 158,
+      "row": 2,
+      "column": 1,
+      "image": "public/pages/page-158.jpg",
+      "crop": [
+        82,
+        413,
+        150,
+        124
+      ],
+      "captionBounds": [
+        93.344,
+        542.593,
+        220.998,
+        600.5
+      ],
+      "caption": "AUTOPISTA CON TELEVÍA O SISTEMA COPLEMENTARIO",
+      "displayCaption": "AUTOPISTA CON TELEVÍA O SISTEMA COMPLEMENTARIO"
+    }
+  },
+  {
+    "id": "sig-145",
+    "name": "ESTACIONAMIENTO PERMITIDO",
+    "category": "Informativas",
+    "page": 158,
+    "imageUrl": "/signs/catalog/p158-r3-c1.png",
+    "sourceKey": "p158-r3-c1",
+    "source": {
+      "page": 158,
+      "row": 3,
+      "column": 1,
+      "image": "public/pages/page-158.jpg",
+      "crop": [
+        82,
+        737,
+        150,
+        124
+      ],
+      "captionBounds": [
+        88.655,
+        866.335,
+        227.072,
+        909.935
+      ],
+      "caption": "ESTACIONAMIENTO PERMITIDO",
+      "displayCaption": "ESTACIONAMIENTO PERMITIDO"
+    }
+  },
+  {
+    "id": "sig-146",
+    "name": "PLAZA DE PEAJE",
+    "category": "Informativas",
+    "page": 158,
+    "imageUrl": "/signs/catalog/p158-r3-c2.png",
+    "sourceKey": "p158-r3-c2",
+    "source": {
+      "page": 158,
+      "row": 3,
+      "column": 2,
+      "image": "public/pages/page-158.jpg",
+      "crop": [
+        259,
+        737,
+        150,
+        124
+      ],
+      "captionBounds": [
+        275.332,
+        866.335,
+        393.665,
+        889.935
+      ],
+      "caption": "PLAZA DE PEAJE",
+      "displayCaption": "PLAZA DE PEAJE"
+    }
+  },
+  {
+    "id": "sig-147",
+    "name": "PARADA MIXTA",
+    "category": "Informativas",
+    "page": 158,
+    "imageUrl": "/signs/catalog/p158-r3-c3.png",
+    "sourceKey": "p158-r3-c3",
+    "source": {
+      "page": 158,
+      "row": 3,
+      "column": 3,
+      "image": "public/pages/page-158.jpg",
+      "crop": [
+        436,
+        737,
+        150,
+        124
+      ],
+      "captionBounds": [
+        457.743,
+        866.335,
+        565.823,
+        889.935
+      ],
+      "caption": "PARADA MIXTA",
+      "displayCaption": "PARADA MIXTA"
+    }
+  },
+  {
+    "id": "sig-148",
+    "name": "PISTA SOLO BUSES",
+    "category": "Informativas",
+    "page": 158,
+    "imageUrl": "/signs/catalog/p158-r3-c4.png",
+    "sourceKey": "p158-r3-c4",
+    "source": {
+      "page": 158,
+      "row": 3,
+      "column": 4,
+      "image": "public/pages/page-158.jpg",
+      "crop": [
+        613,
+        737,
+        150,
+        124
+      ],
+      "captionBounds": [
+        621.467,
+        866.335,
+        754.097,
+        889.935
+      ],
+      "caption": "PISTA SOLO BUSES",
+      "displayCaption": "PISTA SOLO BUSES"
+    }
+  },
+  {
+    "id": "sig-149",
+    "name": "CONTROL FOTOGRÁFICO",
+    "category": "Informativas",
+    "page": 158,
+    "imageUrl": "/signs/catalog/p158-r3-c5.png",
+    "sourceKey": "p158-r3-c5",
+    "source": {
+      "page": 158,
+      "row": 3,
+      "column": 5,
+      "image": "public/pages/page-158.jpg",
+      "crop": [
+        790,
+        737,
+        150,
+        124
+      ],
+      "captionBounds": [
+        814.7,
+        866.335,
+        914.917,
+        909.935
+      ],
+      "caption": "CONTROL FOTOGRÁFICO",
+      "displayCaption": "CONTROL FOTOGRÁFICO"
+    }
+  },
+  {
+    "id": "sig-150",
+    "name": "CONTROL CON CÁMARA",
+    "category": "Informativas",
+    "page": 158,
+    "imageUrl": "/signs/catalog/p158-r4-c1.png",
+    "sourceKey": "p158-r4-c1",
+    "source": {
+      "page": 158,
+      "row": 4,
+      "column": 1,
+      "image": "public/pages/page-158.jpg",
+      "crop": [
+        82,
+        945,
+        150,
+        124
+      ],
+      "captionBounds": [
+        105.753,
+        1073.663,
+        209.98,
+        1117.263
+      ],
+      "caption": "CONTROL CON CÁMARA",
+      "displayCaption": "CONTROL CON CÁMARA"
+    }
+  },
+  {
+    "id": "sig-151",
+    "name": "ZONA ESPERA ESPECIAL CICLOS",
+    "category": "Informativas",
+    "page": 158,
+    "imageUrl": "/signs/catalog/p158-r4-c2.png",
+    "sourceKey": "p158-r4-c2",
+    "source": {
+      "page": 158,
+      "row": 4,
+      "column": 2,
+      "image": "public/pages/page-158.jpg",
+      "crop": [
+        259,
+        945,
+        150,
+        124
+      ],
+      "captionBounds": [
+        274.27,
+        1073.663,
+        398.133,
+        1117.263
+      ],
+      "caption": "ZONA ESPERA ESPECIAL CICLOS",
+      "displayCaption": "ZONA ESPERA ESPECIAL CICLOS"
+    }
+  },
+  {
+    "id": "sig-p158-r4-c3",
+    "name": "ZONA ESPERA ESPECIAL CICLOS",
+    "category": "Informativas",
+    "page": 158,
+    "imageUrl": "/signs/catalog/p158-r4-c3.png",
+    "sourceKey": "p158-r4-c3",
+    "source": {
+      "page": 158,
+      "row": 4,
+      "column": 3,
+      "image": "public/pages/page-158.jpg",
+      "crop": [
+        436,
+        945,
+        150,
+        124
+      ],
+      "captionBounds": [
+        450.273,
+        1073.663,
+        574.137,
+        1117.263
+      ],
+      "caption": "ZONA ESPERA ESPECIAL CICLOS",
+      "displayCaption": "ZONA ESPERA ESPECIAL CICLOS"
+    }
+  },
+  {
+    "id": "sig-152",
+    "name": "ZONA DE ESPERA ADELANTADA MOTOS",
+    "category": "Informativas",
+    "page": 158,
+    "imageUrl": "/signs/catalog/p158-r4-c4.png",
+    "sourceKey": "p158-r4-c4",
+    "source": {
+      "page": 158,
+      "row": 4,
+      "column": 4,
+      "image": "public/pages/page-158.jpg",
+      "crop": [
+        613,
+        945,
+        150,
+        124
+      ],
+      "captionBounds": [
+        619.81,
+        1074.108,
+        757.03,
+        1113.682
+      ],
+      "caption": "ZONA DE ESPERA ADELANTADA MOTOS",
+      "displayCaption": "ZONA DE ESPERA ADELANTADA MOTOS"
+    }
+  },
+  {
+    "id": "sig-p158-r4-c5",
+    "name": "ZONA DE ESPERA ADELANTADA MOTOS",
+    "category": "Informativas",
+    "page": 158,
+    "imageUrl": "/signs/catalog/p158-r4-c5.png",
+    "sourceKey": "p158-r4-c5",
+    "source": {
+      "page": 158,
+      "row": 4,
+      "column": 5,
+      "image": "public/pages/page-158.jpg",
+      "crop": [
+        790,
+        945,
+        150,
+        124
+      ],
+      "captionBounds": [
+        795.815,
+        1074.108,
+        933.035,
+        1113.682
+      ],
+      "caption": "ZONA DE ESPERA ADELANTADA MOTOS",
+      "displayCaption": "ZONA DE ESPERA ADELANTADA MOTOS"
+    }
+  },
+  {
+    "id": "sig-153",
+    "name": "ZONA 30",
+    "category": "Informativas",
+    "page": 159,
+    "imageUrl": "/signs/catalog/p159-r1-c1.png",
+    "sourceKey": "p159-r1-c1",
+    "source": {
+      "page": 159,
+      "row": 1,
+      "column": 1,
+      "image": "public/pages/page-159.jpg",
+      "crop": [
+        82,
+        144,
+        150,
+        124
+      ],
+      "captionBounds": [
+        124.478,
+        273.627,
+        188.998,
+        297.227
+      ],
+      "caption": "ZONA 30",
+      "displayCaption": "ZONA 30"
+    }
+  },
+  {
+    "id": "sig-154",
+    "name": "FIN ZONA 30",
+    "category": "Informativas",
+    "page": 159,
+    "imageUrl": "/signs/catalog/p159-r1-c2.png",
+    "sourceKey": "p159-r1-c2",
+    "source": {
+      "page": 159,
+      "row": 1,
+      "column": 2,
+      "image": "public/pages/page-159.jpg",
+      "crop": [
+        256,
+        144,
+        150,
+        124
+      ],
+      "captionBounds": [
+        283.815,
+        273.627,
+        376.552,
+        297.227
+      ],
+      "caption": "FIN ZONA 30",
+      "displayCaption": "FIN ZONA 30"
+    }
+  },
+  {
+    "id": "sig-155",
+    "name": "SOLO BICICLETAS",
+    "category": "Informativas",
+    "page": 159,
+    "imageUrl": "/signs/catalog/p159-r1-c3.png",
+    "sourceKey": "p159-r1-c3",
+    "source": {
+      "page": 159,
+      "row": 1,
+      "column": 3,
+      "image": "public/pages/page-159.jpg",
+      "crop": [
+        432,
+        144,
+        150,
+        124
+      ],
+      "captionBounds": [
+        444.482,
+        273.627,
+        569.158,
+        297.227
+      ],
+      "caption": "SOLO BICICLETAS",
+      "displayCaption": "SOLO BICICLETAS"
+    }
+  },
+  {
+    "id": "sig-156",
+    "name": "INICIO CICLOBANDA",
+    "category": "Informativas",
+    "page": 159,
+    "imageUrl": "/signs/catalog/p159-r1-c4.png",
+    "sourceKey": "p159-r1-c4",
+    "source": {
+      "page": 159,
+      "row": 1,
+      "column": 4,
+      "image": "public/pages/page-159.jpg",
+      "crop": [
+        608,
+        144,
+        150,
+        124
+      ],
+      "captionBounds": [
+        636.767,
+        273.627,
+        731.44,
+        317.227
+      ],
+      "caption": "INICIO CICLOBANDA",
+      "displayCaption": "INICIO CICLOBANDA"
+    }
+  },
+  {
+    "id": "sig-157",
+    "name": "FIN CICLOBANDA",
+    "category": "Informativas",
+    "page": 159,
+    "imageUrl": "/signs/catalog/p159-r1-c5.png",
+    "sourceKey": "p159-r1-c5",
+    "source": {
+      "page": 159,
+      "row": 1,
+      "column": 5,
+      "image": "public/pages/page-159.jpg",
+      "crop": [
+        786,
+        144,
+        150,
+        124
+      ],
+      "captionBounds": [
+        813.952,
+        273.627,
+        908.625,
+        317.227
+      ],
+      "caption": "FIN CICLOBANDA",
+      "displayCaption": "FIN CICLOBANDA"
+    }
+  },
+  {
+    "id": "sig-158",
+    "name": "FIN CICLOVÍA",
+    "category": "Informativas",
+    "page": 159,
+    "imageUrl": "/signs/catalog/p159-r2-c1.png",
+    "sourceKey": "p159-r2-c1",
+    "source": {
+      "page": 159,
+      "row": 2,
+      "column": 1,
+      "image": "public/pages/page-159.jpg",
+      "crop": [
+        82,
+        353,
+        150,
+        123
+      ],
+      "captionBounds": [
+        108.562,
+        481.763,
+        204.9,
+        505.363
+      ],
+      "caption": "FIN CICLOVÍA",
+      "displayCaption": "FIN CICLOVÍA"
+    }
+  },
+  {
+    "id": "sig-159",
+    "name": "CICLOCALLE",
+    "category": "Informativas",
+    "page": 159,
+    "imageUrl": "/signs/catalog/p159-r2-c2.png",
+    "sourceKey": "p159-r2-c2",
+    "source": {
+      "page": 159,
+      "row": 2,
+      "column": 2,
+      "image": "public/pages/page-159.jpg",
+      "crop": [
+        256,
+        353,
+        150,
+        123
+      ],
+      "captionBounds": [
+        285.825,
+        481.763,
+        374.545,
+        505.363
+      ],
+      "caption": "CICLOCALLE",
+      "displayCaption": "CICLOCALLE"
+    }
+  },
+  {
+    "id": "sig-160",
+    "name": "SUPERFICIE SEGREGADA MOTORIZADOS-CICLOS",
+    "category": "Informativas",
+    "page": 159,
+    "imageUrl": "/signs/catalog/p159-r2-c3.png",
+    "sourceKey": "p159-r2-c3",
+    "source": {
+      "page": 159,
+      "row": 2,
+      "column": 3,
+      "image": "public/pages/page-159.jpg",
+      "crop": [
+        432,
+        353,
+        150,
+        123
+      ],
+      "captionBounds": [
+        436.535,
+        482.653,
+        576.69,
+        518.2
+      ],
+      "caption": "SUPERFICIE SEGREGADA MOTORIZADOS-CICLOS",
+      "displayCaption": "SUPERFICIE SEGREGADA MOTORIZADOS-CICLOS"
+    }
+  },
+  {
+    "id": "sig-p159-r2-c4",
+    "name": "SUPERFICIE SEGREGADA MOTORIZADOS-CICLOS",
+    "category": "Informativas",
+    "page": 159,
+    "imageUrl": "/signs/catalog/p159-r2-c4.png",
+    "sourceKey": "p159-r2-c4",
+    "source": {
+      "page": 159,
+      "row": 2,
+      "column": 4,
+      "image": "public/pages/page-159.jpg",
+      "crop": [
+        608,
+        353,
+        150,
+        123
+      ],
+      "captionBounds": [
+        612.54,
+        482.653,
+        752.695,
+        518.2
+      ],
+      "caption": "SUPERFICIE SEGREGADA MOTORIZADOS-CICLOS",
+      "displayCaption": "SUPERFICIE SEGREGADA MOTORIZADOS-CICLOS"
+    }
+  },
+  {
+    "id": "sig-p159-r2-c5",
+    "name": "ZONA ESPERA ESPECIAL CICLOS",
+    "category": "Informativas",
+    "page": 159,
+    "imageUrl": "/signs/catalog/p159-r2-c5.png",
+    "sourceKey": "p159-r2-c5",
+    "source": {
+      "page": 159,
+      "row": 2,
+      "column": 5,
+      "image": "public/pages/page-159.jpg",
+      "crop": [
+        786,
+        353,
+        150,
+        123
+      ],
+      "captionBounds": [
+        799.47,
+        481.763,
+        923.333,
+        525.363
+      ],
+      "caption": "ZONA ESPERA ESPECIAL CICLOS",
+      "displayCaption": "ZONA ESPERA ESPECIAL CICLOS"
+    }
+  },
+  {
+    "id": "sig-p159-r3-c1",
+    "name": "ZONA ESPERA ESPECIAL CICLOS",
+    "category": "Informativas",
+    "page": 159,
+    "imageUrl": "/signs/catalog/p159-r3-c1.png",
+    "sourceKey": "p159-r3-c1",
+    "source": {
+      "page": 159,
+      "row": 3,
+      "column": 1,
+      "image": "public/pages/page-159.jpg",
+      "crop": [
+        82,
+        561,
+        150,
+        124
+      ],
+      "captionBounds": [
+        95.98,
+        689.898,
+        219.843,
+        733.498
+      ],
+      "caption": "ZONA ESPERA ESPECIAL CICLOS",
+      "displayCaption": "ZONA ESPERA ESPECIAL CICLOS"
+    }
+  },
+  {
+    "id": "sig-161",
+    "name": "TRABAJOS EN LA VÍA",
+    "category": "Transitorias",
+    "page": 160,
+    "imageUrl": "/signs/catalog/p160-r1-c1.png",
+    "sourceKey": "p160-r1-c1",
+    "source": {
+      "page": 160,
+      "row": 1,
+      "column": 1,
+      "image": "public/pages/page-160.jpg",
+      "crop": [
+        82,
+        276,
+        150,
+        124
+      ],
+      "captionBounds": [
+        120.433,
+        405.332,
+        194.59,
+        448.932
+      ],
+      "caption": "TRABAJOS EN LA VÍA",
+      "displayCaption": "TRABAJOS EN LA VÍA"
+    }
+  },
+  {
+    "id": "sig-162",
+    "name": "FIN TRABAJOS EN LA VÍA",
+    "category": "Transitorias",
+    "page": 160,
+    "imageUrl": "/signs/catalog/p160-r1-c2.png",
+    "sourceKey": "p160-r1-c2",
+    "source": {
+      "page": 160,
+      "row": 1,
+      "column": 2,
+      "image": "public/pages/page-160.jpg",
+      "crop": [
+        259,
+        276,
+        150,
+        124
+      ],
+      "captionBounds": [
+        282.958,
+        405.332,
+        385.332,
+        448.932
+      ],
+      "caption": "FIN TRABAJOS EN LA VÍA",
+      "displayCaption": "FIN TRABAJOS EN LA VÍA"
+    }
+  },
+  {
+    "id": "sig-163",
+    "name": "BANDERERO",
+    "category": "Transitorias",
+    "page": 160,
+    "imageUrl": "/signs/catalog/p160-r1-c3.png",
+    "sourceKey": "p160-r1-c3",
+    "source": {
+      "page": 160,
+      "row": 1,
+      "column": 3,
+      "image": "public/pages/page-160.jpg",
+      "crop": [
+        436,
+        276,
+        150,
+        124
+      ],
+      "captionBounds": [
+        466.998,
+        405.332,
+        555.852,
+        428.932
+      ],
+      "caption": "BANDERERO",
+      "displayCaption": "BANDERERO"
+    }
+  },
+  {
+    "id": "sig-164",
+    "name": "TRÁNSITO DE MAQUINARIA",
+    "category": "Transitorias",
+    "page": 160,
+    "imageUrl": "/signs/catalog/p160-r1-c4.png",
+    "sourceKey": "p160-r1-c4",
+    "source": {
+      "page": 160,
+      "row": 1,
+      "column": 4,
+      "image": "public/pages/page-160.jpg",
+      "crop": [
+        613,
+        276,
+        150,
+        124
+      ],
+      "captionBounds": [
+        639.243,
+        405.332,
+        735.613,
+        448.932
+      ],
+      "caption": "TRÁNSITO DE MAQUINARIA",
+      "displayCaption": "TRÁNSITO DE MAQUINARIA"
+    }
+  },
+  {
+    "id": "sig-p160-r1-c5",
+    "name": "CURVA A LA DERECHA",
+    "category": "Transitorias",
+    "page": 160,
+    "imageUrl": "/signs/catalog/p160-r1-c5.png",
+    "sourceKey": "p160-r1-c5",
+    "source": {
+      "page": 160,
+      "row": 1,
+      "column": 5,
+      "image": "public/pages/page-160.jpg",
+      "crop": [
+        790,
+        276,
+        150,
+        124
+      ],
+      "captionBounds": [
+        821.527,
+        405.332,
+        907.363,
+        448.932
+      ],
+      "caption": "CURVA A LA DERECHA",
+      "displayCaption": "CURVA A LA DERECHA"
+    }
+  },
+  {
+    "id": "sig-p160-r2-c1",
+    "name": "CURVA MUY CERRADA A LA IZQUIERDA",
+    "category": "Transitorias",
+    "page": 160,
+    "imageUrl": "/signs/catalog/p160-r2-c1.png",
+    "sourceKey": "p160-r2-c1",
+    "source": {
+      "page": 160,
+      "row": 2,
+      "column": 1,
+      "image": "public/pages/page-160.jpg",
+      "crop": [
+        82,
+        484,
+        150,
+        124
+      ],
+      "captionBounds": [
+        85.512,
+        613.215,
+        229.491,
+        652.788
+      ],
+      "caption": "CURVA MUY CERRADA A LA IZQUIERDA",
+      "displayCaption": "CURVA MUY CERRADA A LA IZQUIERDA"
+    }
+  },
+  {
+    "id": "sig-p160-r2-c2",
+    "name": "BADÉN",
+    "category": "Transitorias",
+    "page": 160,
+    "imageUrl": "/signs/catalog/p160-r2-c2.png",
+    "sourceKey": "p160-r2-c2",
+    "source": {
+      "page": 160,
+      "row": 2,
+      "column": 2,
+      "image": "public/pages/page-160.jpg",
+      "crop": [
+        259,
+        484,
+        150,
+        124
+      ],
+      "captionBounds": [
+        308.912,
+        612.77,
+        359.395,
+        636.37
+      ],
+      "caption": "BADÉN",
+      "displayCaption": "BADÉN"
+    }
+  },
+  {
+    "id": "sig-p160-r2-c3",
+    "name": "ANCHO MÁXIMO",
+    "category": "Transitorias",
+    "page": 160,
+    "imageUrl": "/signs/catalog/p160-r2-c3.png",
+    "sourceKey": "p160-r2-c3",
+    "source": {
+      "page": 160,
+      "row": 2,
+      "column": 3,
+      "image": "public/pages/page-160.jpg",
+      "crop": [
+        436,
+        484,
+        150,
+        124
+      ],
+      "captionBounds": [
+        450.843,
+        612.77,
+        571.997,
+        636.37
+      ],
+      "caption": "ANCHO MÁXIMO",
+      "displayCaption": "ANCHO MÁXIMO"
+    }
+  },
+  {
+    "id": "sig-p160-r2-c4",
+    "name": "ZONA DE DERRUMBES",
+    "category": "Transitorias",
+    "page": 160,
+    "imageUrl": "/signs/catalog/p160-r2-c4.png",
+    "sourceKey": "p160-r2-c4",
+    "source": {
+      "page": 160,
+      "row": 2,
+      "column": 4,
+      "image": "public/pages/page-160.jpg",
+      "crop": [
+        613,
+        484,
+        150,
+        124
+      ],
+      "captionBounds": [
+        642.253,
+        612.77,
+        732.608,
+        656.37
+      ],
+      "caption": "ZONA DE DERRUMBES",
+      "displayCaption": "ZONA DE DERRUMBES"
+    }
+  },
+  {
+    "id": "sig-p160-r2-c5",
+    "name": "PROYECCIÓN DE GRAVILLA",
+    "category": "Transitorias",
+    "page": 160,
+    "imageUrl": "/signs/catalog/p160-r2-c5.png",
+    "sourceKey": "p160-r2-c5",
+    "source": {
+      "page": 160,
+      "row": 2,
+      "column": 5,
+      "image": "public/pages/page-160.jpg",
+      "crop": [
+        790,
+        484,
+        150,
+        124
+      ],
+      "captionBounds": [
+        817.1,
+        612.77,
+        911.79,
+        656.37
+      ],
+      "caption": "PROYECCIÓN DE GRAVILLA",
+      "displayCaption": "PROYECCIÓN DE GRAVILLA"
+    }
+  },
+  {
+    "id": "sig-p160-r3-c1",
+    "name": "PELIGRO",
+    "category": "Transitorias",
+    "page": 160,
+    "imageUrl": "/signs/catalog/p160-r3-c1.png",
+    "sourceKey": "p160-r3-c1",
+    "source": {
+      "page": 160,
+      "row": 3,
+      "column": 1,
+      "image": "public/pages/page-160.jpg",
+      "crop": [
+        82,
+        692,
+        150,
+        123
+      ],
+      "captionBounds": [
+        126.56,
+        820.21,
+        188.463,
+        843.81
+      ],
+      "caption": "PELIGRO",
+      "displayCaption": "PELIGRO"
+    }
+  },
+  {
+    "id": "sig-165",
+    "name": "DESVÍO",
+    "category": "Transitorias",
+    "page": 160,
+    "imageUrl": "/signs/catalog/p160-r3-c2.png",
+    "sourceKey": "p160-r3-c2",
+    "source": {
+      "page": 160,
+      "row": 3,
+      "column": 2,
+      "image": "public/pages/page-160.jpg",
+      "crop": [
+        259,
+        692,
+        150,
+        123
+      ],
+      "captionBounds": [
+        306.952,
+        820.21,
+        361.358,
+        843.81
+      ],
+      "caption": "DESVÍO",
+      "displayCaption": "DESVÍO"
+    }
+  },
+  {
+    "id": "sig-166",
+    "name": "PROXIMIDAD DE DESVÍO",
+    "category": "Transitorias",
+    "page": 160,
+    "imageUrl": "/signs/catalog/p160-r3-c3.png",
+    "sourceKey": "p160-r3-c3",
+    "source": {
+      "page": 160,
+      "row": 3,
+      "column": 3,
+      "image": "public/pages/page-160.jpg",
+      "crop": [
+        436,
+        692,
+        150,
+        123
+      ],
+      "captionBounds": [
+        464.255,
+        820.21,
+        558.598,
+        863.81
+      ],
+      "caption": "PROXIMIDAD DE DESVÍO",
+      "displayCaption": "PROXIMIDAD DE DESVÍO"
+    }
+  },
+  {
+    "id": "sig-167",
+    "name": "FIN DE DESVÍO",
+    "category": "Transitorias",
+    "page": 160,
+    "imageUrl": "/signs/catalog/p160-r3-c4.png",
+    "sourceKey": "p160-r3-c4",
+    "source": {
+      "page": 160,
+      "row": 3,
+      "column": 4,
+      "image": "public/pages/page-160.jpg",
+      "crop": [
+        613,
+        692,
+        150,
+        123
+      ],
+      "captionBounds": [
+        634.363,
+        820.21,
+        740.487,
+        843.81
+      ],
+      "caption": "FIN DE DESVÍO",
+      "displayCaption": "FIN DE DESVÍO"
+    }
+  }
+]

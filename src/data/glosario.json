@@ -1,0 +1,222 @@
+[
+  {
+    "id": "term-001",
+    "term": "Acera",
+    "definition": "Parte de una vía destinada al uso de peatones."
+  },
+  {
+    "id": "term-002",
+    "term": "Adelantamiento",
+    "definition": "Maniobra efectuada por el costado izquierdo del eje de la calzada, mediante la cual un vehículo se sitúa adelante de otro u otros que le antecedían."
+  },
+  {
+    "id": "term-003",
+    "term": "Avenida o calle",
+    "definition": "Vía urbana destinada a la circulación de las y los peatones, de los ve- hículos y de los animales."
+  },
+  {
+    "id": "term-004",
+    "term": "Berma",
+    "definition": "Faja lateral, pavimentada o no, adyacente a la calzada de un camino."
+  },
+  {
+    "id": "term-005",
+    "term": "Calzada",
+    "definition": "Parte de una vía destinada al uso de vehículos y animales."
+  },
+  {
+    "id": "term-006",
+    "term": "Camino",
+    "definition": "Vía rural destinada al uso de peatones, vehículos y animales."
+  },
+  {
+    "id": "term-007",
+    "term": "Ciclo",
+    "definition": "Vehículo no motorizado de una o más ruedas, propulsado por una o más personas situadas en él, tales como bicicletas, triciclos, entre otros. También se consideran ciclos aquellos vehículos de una o más ruedas que cuenten con un motor auxiliar eléctrico, de una potencia nominal continua máxima de 250 watts, en los que la alimentación es reducida o interrumpida cuando el vehículo alcanza una velocidad máxima de 25 km/h o antes si la persona ciclista termina de pedalear o propulsarlo, los que se considerarán para los efectos de la ley como vehículos no motorizados."
+  },
+  {
+    "id": "term-008",
+    "term": "Ciclovía",
+    "definition": "Espacio destinado al uso exclusivo de ciclos, que puede estar segregado física o visualmente."
+  },
+  {
+    "id": "term-009",
+    "term": "Conductora/conductor",
+    "definition": "Toda persona que conduce, maneja o tiene control físico de un vehículo motorizado en la vía pública; que controla o maneja un vehículo remolcado por otro; o que dirige, maniobra o está a cargo del manejo directo de cualquier otro vehículo, de un animal de silla, de tiro o de arreo de animales."
+  },
+  {
+    "id": "term-010",
+    "term": "Cruce",
+    "definition": "La unión de una calle o camino con otros, aunque no los atraviese. Comprende todo el ancho de la calle o camino entre las líneas de edificación o deslindes en su caso."
+  },
+  {
+    "id": "term-011",
+    "term": "Cruce de ferrocarriles",
+    "definition": "Intersección de una calle o camino con una vía férrea por la cual existe tráfico regular de trenes."
+  },
+  {
+    "id": "term-012",
+    "term": "Cruce regulado",
+    "definition": "Cruce en que existe un semáforo funcionando normalmente, excluyendo la intermitencia, o donde está Carabineros dirigiendo el tránsito."
+  },
+  {
+    "id": "term-013",
+    "term": "Cuneta",
+    "definition": "En calles, el ángulo formado por la calzada y el plano vertical producido por dife- rencia de nivel entre calzada y acera. En los caminos, el foso lateral de poca profundidad. libro para la conducción en chile   glosario"
+  },
+  {
+    "id": "term-014",
+    "term": "Demarcación",
+    "definition": "Símbolo, palabra o marca, de preferencia longitudinal o transversal, sobre la calzada, para guía del tránsito de vehículos y peatones."
+  },
+  {
+    "id": "term-015",
+    "term": "Derecho preferente de paso",
+    "definition": "Prerrogativa de un peatón o persona conductora de un vehículo para proseguir su marcha."
+  },
+  {
+    "id": "term-016",
+    "term": "Detención",
+    "definition": "Paralización a que obligan los dispositivos de señalización del tránsito o las órdenes de las o los funcionarios encargados de su regulación, como asimismo, la paralización breve de un vehículo para recibir o dejar pasajeros, pero sólo mientras dure esta maniobra."
+  },
+  {
+    "id": "term-017",
+    "term": "Eje de calzada",
+    "definition": "La línea longitudinal a la calzada, demarcada o imaginaria, que determi- nará las áreas con sentido de tránsito opuesto de la misma; al ser imaginaria, la división es en dos partes iguales."
+  },
+  {
+    "id": "term-018",
+    "term": "Esquina",
+    "definition": "Vértice del ángulo que forman las líneas de edificación o deslinde convergentes, según sea el caso."
+  },
+  {
+    "id": "term-019",
+    "term": "Estacionar",
+    "definition": "Paralizar un vehículo en la vía pública con o sin la persona conductora, por un período mayor que el necesario para dejar o recibir pasajeros."
+  },
+  {
+    "id": "term-020",
+    "term": "Intersección",
+    "definition": "Área común de calzadas que se cruzan o convergen."
+  },
+  {
+    "id": "term-021",
+    "term": "Línea de detención adelantada",
+    "definition": "Línea transversal a la calzada demarcada conforme al reglamento, antes de un cruce regulado con semáforo, que determina el inicio de la zona de espera especial para personas conductoras de ciclos o motocicletas."
+  },
+  {
+    "id": "term-022",
+    "term": "Línea de detención de vehículos",
+    "definition": "Línea transversal a la calzada, demarcada o imagi- naria, antes de una intersección o un paso para peatones, que no debe ser sobrepasada por los vehículos que deban detenerse. Si no estuviera demarcada, se entiende que está: En cruces regulados y pasos para peatones, a no menos de un metro antes de estos. En otros cruces, justo antes de la intersección."
+  },
+  {
+    "id": "term-023",
+    "term": "Luz baja",
+    "definition": "Luz proyectada por los focos delanteros del vehículo en que el borde superior del haz luminoso es paralelo a la calzada y cuya potencia permite visualizar obstáculos a una distancia no inferior a 50 metros."
+  },
+  {
+    "id": "term-024",
+    "term": "Luz alta",
+    "definition": "Luz proyectada por los focos delanteros del vehículo en forma paralela a la calzada, cuya potencia permite visualizar obstáculos a una distancia no inferior a 150 metros."
+  },
+  {
+    "id": "term-025",
+    "term": "Luz de estacionamiento",
+    "definition": "Luz continua o intermitente que permite identificar un vehí- culo estacionado. libro para la conducción en chile   glosario"
+  },
+  {
+    "id": "term-026",
+    "term": "Padrón o permiso de circulación",
+    "definition": "Documento otorgado por la autoridad, destinado a individualizar al vehículo y a su dueño o dueña con el objeto de que pueda circular por las vías públicas."
+  },
+  {
+    "id": "term-027",
+    "term": "Paso para peatones",
+    "definition": "Senda de seguridad en la calzada, señalizada conforme al regla- mento. En cruces regulados no demarcados, corresponderá a la franja formada por la prolongación imaginaria de las aceras."
+  },
+  {
+    "id": "term-028",
+    "term": "Pista de circulación",
+    "definition": "Faja demarcada o imaginaria destinada al tránsito de una fila de vehículos."
+  },
+  {
+    "id": "term-029",
+    "term": "Pista de uso exclusivo",
+    "definition": "Espacio de la calzada debidamente señalizado, destinado úni- camente al uso de ciertos vehículos, determinados por la autoridad correspondiente."
+  },
+  {
+    "id": "term-030",
+    "term": "Placa patente",
+    "definition": "Distintivo que permite individualizar al vehículo."
+  },
+  {
+    "id": "term-031",
+    "term": "Platabanda",
+    "definition": "Espacio de la acera, reservado principalmente a la contención de áreas verdes y arbolado urbano, así como también a la instalación de equipamiento, redes de servicios eléctricos y de telecomunicaciones, iluminación, señales de tránsito, mobiliario urbano, estacionamiento de ciclos, quioscos y, en general, a toda función permitida en la acera y autorizada por la autoridad respectiva, complementaria al uso y tránsito de peatones."
+  },
+  {
+    "id": "term-032",
+    "term": "Semáforo",
+    "definition": "Dispositivo luminoso mediante el cual se regula la circulación de vehículos y peatones."
+  },
+  {
+    "id": "term-033",
+    "term": "Señal de tránsito",
+    "definition": "Dispositivos, signos y demarcaciones oficiales, de mensaje permanente o variable, instalados por la autoridad con el objetivo de regular, advertir o encauzar el tránsito."
+  },
+  {
+    "id": "term-034",
+    "term": "Sobrepasar",
+    "definition": "Maniobra mediante la cual un vehículo pasa a otro u otros que circulan en el mismo sentido sin traspasar el eje de la calzada."
+  },
+  {
+    "id": "term-035",
+    "term": "Triciclo motorizado de carga",
+    "definition": "Vehículo motorizado de tres ruedas destinado exclusiva- mente al transporte de carga. La capacidad de carga de estos vehículos no podrá superar los 300 kilogramos de peso."
+  },
+  {
+    "id": "term-036",
+    "term": "Vehículo de emergencia",
+    "definition": "El perteneciente a Carabineros de Chile e Investigaciones, al Cuerpo de Bomberos y las ambulancias de las instituciones fiscales o de los esta- blecimientos particulares que tengan el respectivo permiso otorgado por la autoridad competente."
+  },
+  {
+    "id": "term-037",
+    "term": "Vehículo de locomoción colectiva",
+    "definition": "Vehículo motorizado, destinado al uso público, para el transporte remunerado de personas, exceptuados los taxis que no efectúen servicio colectivo. libro para la conducción en chile   glosario"
+  },
+  {
+    "id": "term-038",
+    "term": "Vehículo para el transporte escolar",
+    "definition": "Vehículo motorizado construido para transportar más de siete personas sentadas y destinado al transporte de escolares desde o hacia el colegio o relacionado con cualquiera otra actividad."
+  },
+  {
+    "id": "term-039",
+    "term": "Vía",
+    "definition": "Calle, camino u otro lugar destinado al tránsito."
+  },
+  {
+    "id": "term-040",
+    "term": "Vía exclusiva",
+    "definition": "Calzada debidamente señalizada, destinada únicamente al uso de ciertos vehículos, determinados por la autoridad correspondiente."
+  },
+  {
+    "id": "term-041",
+    "term": "Zona de espera especial",
+    "definition": "Área señalizada conforme al reglamento, que permite a las personas conductoras de ciclos o motocicletas detenerse y reiniciar su marcha adelante de otros vehículos motorizados, en un cruce regulado con semáforo."
+  },
+  {
+    "id": "term-042",
+    "term": "Zona de Tránsito Calmado",
+    "definition": "Vía o conjunto de vías emplazadas en zonas urbanas, definidas dentro de una determinada área geográfica, en las que a través de condiciones físicas u operacionales de las vías se establecen velocidades máximas de circulación inferiores a las establecidas en la ley, pudiendo estas ser de 40 km/h, 30 km/h o 20 km/h."
+  },
+  {
+    "id": "term-043",
+    "term": "Zona rural",
+    "definition": "Área geográfica que excluye las zonas urbanas."
+  },
+  {
+    "id": "term-044",
+    "term": "Zona urbana",
+    "definition": "Área geográfica cuyos límites, para los efectos de esta ley, deben estar determinados y señalizados por las Municipalidades."
+  }
+]

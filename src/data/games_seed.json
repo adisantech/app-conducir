@@ -1,0 +1,388 @@
+{
+  "memorice": {
+    "concept_cards": [
+      {
+        "id": "term-001",
+        "type": "concept",
+        "item_a": "Acera",
+        "item_b": "Parte de una vía destinada al uso de peatones."
+      },
+      {
+        "id": "term-002",
+        "type": "concept",
+        "item_a": "Adelantamiento",
+        "item_b": "Maniobra efectuada por el costado izquierdo del eje de la calzada, mediante la cual un vehículo se sitúa adelante de otro u otros que le antecedían."
+      },
+      {
+        "id": "term-003",
+        "type": "concept",
+        "item_a": "Avenida o calle",
+        "item_b": "Vía urbana destinada a la circulación de las y los peatones, de los ve- hículos y de los animales."
+      },
+      {
+        "id": "term-004",
+        "type": "concept",
+        "item_a": "Berma",
+        "item_b": "Faja lateral, pavimentada o no, adyacente a la calzada de un camino."
+      },
+      {
+        "id": "term-005",
+        "type": "concept",
+        "item_a": "Calzada",
+        "item_b": "Parte de una vía destinada al uso de vehículos y animales."
+      },
+      {
+        "id": "term-006",
+        "type": "concept",
+        "item_a": "Camino",
+        "item_b": "Vía rural destinada al uso de peatones, vehículos y animales."
+      },
+      {
+        "id": "term-008",
+        "type": "concept",
+        "item_a": "Ciclovía",
+        "item_b": "Espacio destinado al uso exclusivo de ciclos, que puede estar segregado física o visualmente."
+      },
+      {
+        "id": "term-011",
+        "type": "concept",
+        "item_a": "Cruce de ferrocarriles",
+        "item_b": "Intersección de una calle o camino con una vía férrea por la cual existe tráfico regular de trenes."
+      },
+      {
+        "id": "term-012",
+        "type": "concept",
+        "item_a": "Cruce regulado",
+        "item_b": "Cruce en que existe un semáforo funcionando normalmente, excluyendo la intermitencia, o donde está Carabineros dirigiendo el tránsito."
+      },
+      {
+        "id": "term-014",
+        "type": "concept",
+        "item_a": "Demarcación",
+        "item_b": "Símbolo, palabra o marca, de preferencia longitudinal o transversal, sobre la calzada, para guía del tránsito de vehículos y peatones."
+      },
+      {
+        "id": "term-015",
+        "type": "concept",
+        "item_a": "Derecho preferente de paso",
+        "item_b": "Prerrogativa de un peatón o persona conductora de un vehículo para proseguir su marcha."
+      },
+      {
+        "id": "term-018",
+        "type": "concept",
+        "item_a": "Esquina",
+        "item_b": "Vértice del ángulo que forman las líneas de edificación o deslinde convergentes, según sea el caso."
+      },
+      {
+        "id": "term-019",
+        "type": "concept",
+        "item_a": "Estacionar",
+        "item_b": "Paralizar un vehículo en la vía pública con o sin la persona conductora, por un período mayor que el necesario para dejar o recibir pasajeros."
+      },
+      {
+        "id": "term-020",
+        "type": "concept",
+        "item_a": "Intersección",
+        "item_b": "Área común de calzadas que se cruzan o convergen."
+      },
+      {
+        "id": "term-025",
+        "type": "concept",
+        "item_a": "Luz de estacionamiento",
+        "item_b": "Luz continua o intermitente que permite identificar un vehí- culo estacionado. libro para la conducción en chile   glosario"
+      },
+      {
+        "id": "term-026",
+        "type": "concept",
+        "item_a": "Padrón o permiso de circulación",
+        "item_b": "Documento otorgado por la autoridad, destinado a individualizar al vehículo y a su dueño o dueña con el objeto de que pueda circular por las vías públicas."
+      }
+    ],
+    "signal_cards": [
+      {
+        "id": "sig-001",
+        "type": "signal",
+        "name": "PARE",
+        "category": "Reglamentarias"
+      },
+      {
+        "id": "sig-002",
+        "type": "signal",
+        "name": "CEDA EL PASO",
+        "category": "Reglamentarias"
+      },
+      {
+        "id": "sig-003",
+        "type": "signal",
+        "name": "PARE NIÑOS",
+        "category": "Reglamentarias"
+      },
+      {
+        "id": "sig-004",
+        "type": "signal",
+        "name": "NO ENTRAR",
+        "category": "Reglamentarias"
+      },
+      {
+        "id": "sig-005",
+        "type": "signal",
+        "name": "NO VIRAR IZQUIERDA",
+        "category": "Reglamentarias"
+      },
+      {
+        "id": "sig-006",
+        "type": "signal",
+        "name": "NO VIRAR DERECHA",
+        "category": "Reglamentarias"
+      },
+      {
+        "id": "sig-007",
+        "type": "signal",
+        "name": "NO VIRAR EN U",
+        "category": "Reglamentarias"
+      },
+      {
+        "id": "sig-008",
+        "type": "signal",
+        "name": "NO ADELANTAR",
+        "category": "Reglamentarias"
+      },
+      {
+        "id": "sig-009",
+        "type": "signal",
+        "name": "NO CAMBIAR DE PISTA",
+        "category": "Reglamentarias"
+      },
+      {
+        "id": "sig-010",
+        "type": "signal",
+        "name": "PREFERENCIA CICLISTAS AL VIRAR DERECHA",
+        "category": "Reglamentarias"
+      },
+      {
+        "id": "sig-011",
+        "type": "signal",
+        "name": "PREFERENCIA CICLISTAS AL VIRAR IZQUIERDA",
+        "category": "Reglamentarias"
+      },
+      {
+        "id": "sig-012",
+        "type": "signal",
+        "name": "PREFERENCIA CICLISTAS AL CAMBIAR DE PISTA",
+        "category": "Reglamentarias"
+      },
+      {
+        "id": "sig-013",
+        "type": "signal",
+        "name": "PROHIBIDA CIRCULACIÓN DE VEHÍCULOS DE CARGA",
+        "category": "Reglamentarias"
+      },
+      {
+        "id": "sig-014",
+        "type": "signal",
+        "name": "PROHIBIDA CIRCULACIÓN DE VEHÍCULOS MOTORIZADOS",
+        "category": "Reglamentarias"
+      },
+      {
+        "id": "sig-015",
+        "type": "signal",
+        "name": "PROHIBIDA CIRCULACIÓN DE CARROS DE MANO",
+        "category": "Reglamentarias"
+      },
+      {
+        "id": "sig-016",
+        "type": "signal",
+        "name": "PROHIBIDA CIRCULACIÓN DE BUSES",
+        "category": "Reglamentarias"
+      }
+    ]
+  },
+  "puzzle": {
+    "words": [
+      {
+        "word": "ACERA",
+        "display": "Acera",
+        "clue": "Parte de una vía destinada al uso de peatones."
+      },
+      {
+        "word": "BERMA",
+        "display": "Berma",
+        "clue": "Faja lateral, pavimentada o no, adyacente a la calzada de un camino."
+      },
+      {
+        "word": "CALZADA",
+        "display": "Calzada",
+        "clue": "Parte de una vía destinada al uso de vehículos y animales."
+      },
+      {
+        "word": "CAMINO",
+        "display": "Camino",
+        "clue": "Vía rural destinada al uso de peatones, vehículos y animales."
+      },
+      {
+        "word": "CICLO",
+        "display": "Ciclo",
+        "clue": "Vehículo no motorizado de una o más ruedas, propulsado por una o más personas situadas en él, tales como bicicletas, triciclos, entre otros. También se consideran ciclos aquellos vehículos de una o más ruedas que cuenten con un motor auxiliar eléctrico, de una potencia nominal continua máxima de 250 watts, en los que la alimentación es reducida o interrumpida cuando el vehículo alcanza una velocidad máxima de 25 km/h o antes si la persona ciclista termina de pedalear o propulsarlo, los que se considerarán para los efectos de la ley como vehículos no motorizados."
+      },
+      {
+        "word": "CICLOVÍA",
+        "display": "Ciclovía",
+        "clue": "Espacio destinado al uso exclusivo de ciclos, que puede estar segregado física o visualmente."
+      },
+      {
+        "word": "CRUCE",
+        "display": "Cruce",
+        "clue": "La unión de una calle o camino con otros, aunque no los atraviese. Comprende todo el ancho de la calle o camino entre las líneas de edificación o deslindes en su caso."
+      },
+      {
+        "word": "CUNETA",
+        "display": "Cuneta",
+        "clue": "En calles, el ángulo formado por la calzada y el plano vertical producido por dife- rencia de nivel entre calzada y acera. En los caminos, el foso lateral de poca profundidad. libro para la conducción en chile   glosario"
+      },
+      {
+        "word": "DEMARCACIÓN",
+        "display": "Demarcación",
+        "clue": "Símbolo, palabra o marca, de preferencia longitudinal o transversal, sobre la calzada, para guía del tránsito de vehículos y peatones."
+      },
+      {
+        "word": "DETENCIÓN",
+        "display": "Detención",
+        "clue": "Paralización a que obligan los dispositivos de señalización del tránsito o las órdenes de las o los funcionarios encargados de su regulación, como asimismo, la paralización breve de un vehículo para recibir o dejar pasajeros, pero sólo mientras dure esta maniobra."
+      },
+      {
+        "word": "EJEDECALZADA",
+        "display": "Eje de calzada",
+        "clue": "La línea longitudinal a la calzada, demarcada o imaginaria, que determi- nará las áreas con sentido de tránsito opuesto de la misma; al ser imaginaria, la división es en dos partes iguales."
+      },
+      {
+        "word": "ESQUINA",
+        "display": "Esquina",
+        "clue": "Vértice del ángulo que forman las líneas de edificación o deslinde convergentes, según sea el caso."
+      },
+      {
+        "word": "ESTACIONAR",
+        "display": "Estacionar",
+        "clue": "Paralizar un vehículo en la vía pública con o sin la persona conductora, por un período mayor que el necesario para dejar o recibir pasajeros."
+      },
+      {
+        "word": "INTERSECCIÓN",
+        "display": "Intersección",
+        "clue": "Área común de calzadas que se cruzan o convergen."
+      },
+      {
+        "word": "LUZBAJA",
+        "display": "Luz baja",
+        "clue": "Luz proyectada por los focos delanteros del vehículo en que el borde superior del haz luminoso es paralelo a la calzada y cuya potencia permite visualizar obstáculos a una distancia no inferior a 50 metros."
+      },
+      {
+        "word": "LUZALTA",
+        "display": "Luz alta",
+        "clue": "Luz proyectada por los focos delanteros del vehículo en forma paralela a la calzada, cuya potencia permite visualizar obstáculos a una distancia no inferior a 150 metros."
+      },
+      {
+        "word": "PLACAPATENTE",
+        "display": "Placa patente",
+        "clue": "Distintivo que permite individualizar al vehículo."
+      },
+      {
+        "word": "PLATABANDA",
+        "display": "Platabanda",
+        "clue": "Espacio de la acera, reservado principalmente a la contención de áreas verdes y arbolado urbano, así como también a la instalación de equipamiento, redes de servicios eléctricos y de telecomunicaciones, iluminación, señales de tránsito, mobiliario urbano, estacionamiento de ciclos, quioscos y, en general, a toda función permitida en la acera y autorizada por la autoridad respectiva, complementaria al uso y tránsito de peatones."
+      },
+      {
+        "word": "SEMÁFORO",
+        "display": "Semáforo",
+        "clue": "Dispositivo luminoso mediante el cual se regula la circulación de vehículos y peatones."
+      },
+      {
+        "word": "SOBREPASAR",
+        "display": "Sobrepasar",
+        "clue": "Maniobra mediante la cual un vehículo pasa a otro u otros que circulan en el mismo sentido sin traspasar el eje de la calzada."
+      },
+      {
+        "word": "VÍAEXCLUSIVA",
+        "display": "Vía exclusiva",
+        "clue": "Calzada debidamente señalizada, destinada únicamente al uso de ciertos vehículos, determinados por la autoridad correspondiente."
+      },
+      {
+        "word": "ZONARURAL",
+        "display": "Zona rural",
+        "clue": "Área geográfica que excluye las zonas urbanas."
+      },
+      {
+        "word": "ZONAURBANA",
+        "display": "Zona urbana",
+        "clue": "Área geográfica cuyos límites, para los efectos de esta ley, deben estar determinados y señalizados por las Municipalidades."
+      }
+    ]
+  },
+  "quiz": {
+    "questions": [
+      {
+        "id": "q-001",
+        "chapter": 1,
+        "question": "¿Por qué la CONASET y la legislación vial utilizan el término 'siniestro' en vez de 'accidente'?",
+        "options": [
+          "Porque la mayoría de los eventos son evitables y fruto de conductas de riesgo, no del azar",
+          "Porque suena más formal para las compañías de seguros",
+          "Porque sólo aplica a choques en carreteras",
+          "Porque la palabra accidente quedó prohibida legalmente"
+        ],
+        "answer_index": 0,
+        "explanation": "El concepto de siniestro releva la responsabilidad humana y la evitabilidad, alejándose de la noción de azar o casualidad."
+      },
+      {
+        "id": "q-002",
+        "chapter": 2,
+        "question": "En el indicador de temperatura del tablero de instrumentos, ¿qué significan las letras C y H?",
+        "options": [
+          "C significa Cold (frío) y H significa Hot (caliente)",
+          "C significa Control y H significa Heater (calefacción)",
+          "C significa Crítico y H significa Habitual",
+          "C significa Capacidad y H significa Hidráulico"
+        ],
+        "answer_index": 0,
+        "explanation": "En el tablero de instrumentos, C = Cold (frío) y H = Hot (caliente)."
+      },
+      {
+        "id": "q-003",
+        "chapter": 2,
+        "question": "¿Qué síntoma indica amortiguadores en mal estado?",
+        "options": [
+          "El vehículo se inclina excesivamente hacia adelante al frenar y se balancea en curvas",
+          "El volante gira con mayor suavidad de lo normal",
+          "El motor produce más monóxido de carbono",
+          "Las luces bajas proyectan a más de 150 metros"
+        ],
+        "answer_index": 0,
+        "explanation": "Un amortiguador desgastado provoca que el auto 'cabecee' al frenar, oscile en baches y pierda adherencia en curvas."
+      },
+      {
+        "id": "q-004",
+        "chapter": 6,
+        "question": "¿Cuál es la diferencia entre un 'adelantamiento' y un 'sobrepaso' según la normativa chilena?",
+        "options": [
+          "El adelantamiento traspasa el eje de la calzada; el sobrepaso se realiza sin traspasar el eje de la calzada",
+          "El sobrepaso es sólo para autopistas y el adelantamiento para caminos rurales",
+          "El adelantamiento sólo se puede hacer por la derecha",
+          "No hay diferencia, son sinónimos técnicos"
+        ],
+        "answer_index": 0,
+        "explanation": "Adelantamiento implica ingresar a la pista con sentido contrario o cruzar el eje de calzada; sobrepasar se hace dentro del mismo sentido sin cruzar el eje."
+      },
+      {
+        "id": "q-005",
+        "chapter": 2,
+        "question": "¿A qué distancia mínima deben permitir visualizar obstáculos las luces bajas y las luces altas reglamentarias?",
+        "options": [
+          "Luces bajas no inferior a 50 metros; luces altas no inferior a 150 metros",
+          "Luces bajas a 30 metros; luces altas a 100 metros",
+          "Luces bajas a 100 metros; luces altas a 300 metros",
+          "Ambas a 100 metros dependiendo del clima"
+        ],
+        "answer_index": 0,
+        "explanation": "Según el glosario y la normativa: luz baja >= 50 metros, luz alta >= 150 metros."
+      }
+    ]
+  }
+}
