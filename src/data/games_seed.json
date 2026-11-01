@@ -382,6 +382,276 @@
         ],
         "answer_index": 0,
         "explanation": "Según el glosario y la normativa: luz baja >= 50 metros, luz alta >= 150 metros."
+      },
+      {
+        "id": "q-006",
+        "chapter": 5,
+        "question": "Si circulas por la pista izquierda y ves un vehículo detenido antes de un paso de cebra en la pista derecha, ¿qué debes hacer?",
+        "options": [
+          "Mantener la velocidad",
+          "Disminuir la velocidad y prepararte para detenerte",
+          "Tocar la bocina y continuar",
+          "Acelerar para pasar primero"
+        ],
+        "answer_index": 1,
+        "explanation": "Podría haber peatones que ya comenzaron a cruzar y están ocultos por el vehículo detenido.",
+        "source": {
+          "path": "data/processed/chapters/cap-5.md",
+          "line": 57,
+          "quote": "antes de un paso de cebra, debes disminuir la"
+        }
+      },
+      {
+        "id": "q-007",
+        "chapter": 5,
+        "question": "¿Qué precaución debes tomar al pasar cerca de un bus detenido en una parada?",
+        "options": [
+          "Acelerar para despejar la zona",
+          "Usar siempre las luces altas",
+          "Disminuir la velocidad",
+          "Tocar la bocina continuamente"
+        ],
+        "answer_index": 2,
+        "explanation": "Una persona puede aparecer sorpresivamente delante o detrás del bus, o correr para subir a él.",
+        "source": {
+          "path": "data/processed/chapters/cap-5.md",
+          "line": 53,
+          "quote": "parada, debes disminuir tu velocidad ya que un"
+        }
+      },
+      {
+        "id": "q-008",
+        "chapter": 5,
+        "question": "¿Cómo debes conducir cerca de peatones en calles comerciales concurridas?",
+        "options": [
+          "Con cuidado y a baja velocidad",
+          "Con luces altas para despejar el camino",
+          "Siempre a la velocidad máxima permitida",
+          "Muy cerca de la vereda para que te vean"
+        ],
+        "answer_index": 0,
+        "explanation": "El manual recomienda cuidado y baja velocidad cerca de peatones, especialmente en zonas concurridas.",
+        "source": {
+          "path": "data/processed/chapters/cap-5.md",
+          "line": 69,
+          "quote": "tones. Conduce con cuidado y a baja velocidad"
+        }
+      },
+      {
+        "id": "q-009",
+        "chapter": 5,
+        "question": "Ante la presencia de una persona ebria en la vía, ¿qué recomienda el manual?",
+        "options": [
+          "Acelerar para pasar antes",
+          "Reducir la velocidad",
+          "Tocar la bocina para apurarla",
+          "Pasar lo más cerca posible"
+        ],
+        "answer_index": 1,
+        "explanation": "Reducir la velocidad y darle preferencia es más seguro que provocar un siniestro.",
+        "source": {
+          "path": "data/processed/chapters/cap-5.md",
+          "line": 76,
+          "quote": "Ante la presencia de personas ebrias, reduce"
+        }
+      },
+      {
+        "id": "q-010",
+        "chapter": 5,
+        "question": "Al pasar junto a una persona a caballo o una carreta, ¿qué conducta es segura?",
+        "options": [
+          "Acelerar el motor para avisar",
+          "Acercarse mucho antes de adelantar",
+          "Tocar la bocina insistentemente",
+          "Reducir la velocidad y mantener una distancia lateral prudente"
+        ],
+        "answer_index": 3,
+        "explanation": "Debes prepararte para reducir la velocidad y mantener distancia lateral; las señales acústicas o acelerar el motor pueden asustar al animal.",
+        "source": {
+          "path": "data/processed/chapters/cap-5.md",
+          "line": 156,
+          "quote": "para adelantarle. Mantén una distancia lateral prudente."
+        }
+      },
+      {
+        "id": "q-011",
+        "chapter": 5,
+        "question": "Al pasar cerca de una persona ciclista, ¿qué espacio lateral mínimo debes dejar?",
+        "options": [
+          "50 centímetros",
+          "1 metro",
+          "Al menos 1,5 metros",
+          "Ninguno si circulas despacio"
+        ],
+        "answer_index": 2,
+        "explanation": "El manual indica al menos 1,5 metros porque la persona ciclista podría desviarse o tambalear.",
+        "source": {
+          "path": "data/processed/chapters/cap-5.md",
+          "line": 190,
+          "quote": "indica que debes dejar un espacio lateral de al menos 1,5 metros,"
+        }
+      },
+      {
+        "id": "q-012",
+        "chapter": 5,
+        "question": "¿En qué lugar debes evitar adelantar a una persona ciclista?",
+        "options": [
+          "Antes o en un cruce",
+          "En una recta despejada con espacio suficiente",
+          "Solo en caminos rurales",
+          "Solo cuando lleva casco"
+        ],
+        "answer_index": 0,
+        "explanation": "No debes adelantar antes o en un cruce, especialmente si vas a virar a la derecha; espera que haya pasado la intersección.",
+        "source": {
+          "path": "data/processed/chapters/cap-5.md",
+          "line": 201,
+          "quote": "No adelantes a una persona ciclista antes o en un cruce,"
+        }
+      },
+      {
+        "id": "q-013",
+        "chapter": 5,
+        "question": "Como conductor de un vehículo motorizado, ¿qué puedes hacer en una ciclovía?",
+        "options": [
+          "Detenerte si es por poco tiempo",
+          "Estacionar si dejas espacio",
+          "Circular cuando no haya ciclistas",
+          "No puedes circular, detenerte ni estacionar en ella"
+        ],
+        "answer_index": 3,
+        "explanation": "El manual prohíbe circular, detenerse y estacionar en ciclovías con un vehículo motorizado.",
+        "source": {
+          "path": "data/processed/chapters/cap-5.md",
+          "line": 224,
+          "quote": "no puedes circular, detenerte ni estacionar en las ciclovías."
+        }
+      },
+      {
+        "id": "q-014",
+        "chapter": 5,
+        "question": "Antes de abrir la puerta del automóvil junto a una ciclovía, ¿qué debes hacer?",
+        "options": [
+          "Abrirla rápidamente",
+          "Mirar si viene una persona ciclista",
+          "Encender las luces altas",
+          "Tocar la bocina y abrir sin mirar"
+        ],
+        "answer_index": 1,
+        "explanation": "Mirar antes de abrir evita interponer la puerta en el recorrido de una persona ciclista.",
+        "source": {
+          "path": "data/processed/chapters/cap-5.md",
+          "line": 226,
+          "quote": "viene una persona ciclista antes de abrir la puerta."
+        }
+      },
+      {
+        "id": "q-015",
+        "chapter": 5,
+        "question": "¿Qué debes considerar para elegir un Sistema de Retención Infantil (SRI)?",
+        "options": [
+          "Solo el color de la silla",
+          "Solo la duración del viaje",
+          "El peso, la talla y el nivel de desarrollo de la niña o niño",
+          "Solo el tamaño del maletero"
+        ],
+        "answer_index": 2,
+        "explanation": "El SRI debe ser adecuado al peso, talla y nivel de desarrollo de quien lo utiliza.",
+        "source": {
+          "path": "data/processed/chapters/cap-5.md",
+          "line": 247,
+          "quote": "adecuados para su peso, talla y nivel"
+        }
+      },
+      {
+        "id": "q-016",
+        "chapter": 5,
+        "question": "¿Cómo debes instalar un Sistema de Retención Infantil (SRI)?",
+        "options": [
+          "Fijándolo bien y siguiendo las instrucciones de su manual de usuario",
+          "Sin consultar las instrucciones",
+          "Apoyándolo en el asiento sin fijarlo",
+          "Sujetándolo solo cuando viajes por carretera"
+        ],
+        "answer_index": 0,
+        "explanation": "Una silla mal instalada no brinda la protección necesaria: debes fijarla al asiento siguiendo el manual y sujetar correctamente a la niña o niño.",
+        "source": {
+          "path": "data/processed/chapters/cap-5.md",
+          "line": 297,
+          "quote": "la silla al asiento del vehículo, siguiendo cuidadosamente las instrucciones indicadas en el manual de"
+        }
+      },
+      {
+        "id": "q-017",
+        "chapter": 2,
+        "question": "Según la descripción general del panel, ¿qué indican los testigos de color rojo?",
+        "options": [
+          "Funcionamiento normal de todos los sistemas",
+          "Atención inmediata o avería grave",
+          "Estanque de combustible lleno",
+          "Que no hace falta revisar el vehículo"
+        ],
+        "answer_index": 1,
+        "explanation": "Los testigos rojos informan atención inmediata o una avería grave; no deben ignorarse.",
+        "source": {
+          "path": "data/processed/chapters/cap-2.md",
+          "line": 43,
+          "quote": "inmediata, avería grave."
+        }
+      },
+      {
+        "id": "q-018",
+        "chapter": 2,
+        "question": "Si se enciende la luz indicadora de presión de aceite, ¿qué debes hacer?",
+        "options": [
+          "Continuar hasta tu destino",
+          "Acelerar para aumentar la presión",
+          "Detener el motor de inmediato y no ponerlo en marcha hasta repararlo",
+          "Agregar combustible y seguir"
+        ],
+        "answer_index": 2,
+        "explanation": "Continuar con una falla de lubricación puede causar averías graves al motor.",
+        "source": {
+          "path": "data/processed/chapters/cap-2.md",
+          "line": 64,
+          "quote": "debes detener el motor de inmediato"
+        }
+      },
+      {
+        "id": "q-019",
+        "chapter": 2,
+        "question": "Si la temperatura del motor sube por una falla del sistema de refrigeración, ¿qué debes hacer?",
+        "options": [
+          "Detener la marcha y reparar la avería",
+          "Acelerar para enfriar el motor",
+          "Ignorar el indicador si falta poco para llegar",
+          "Apagar solo las luces del vehículo"
+        ],
+        "answer_index": 0,
+        "explanation": "Una obstrucción, poco refrigerante o una falla de la bomba pueden elevar la temperatura; corresponde detener la marcha y reparar la avería.",
+        "source": {
+          "path": "data/processed/chapters/cap-2.md",
+          "line": 144,
+          "quote": "debes detener la marcha y reparar la avería."
+        }
+      },
+      {
+        "id": "q-020",
+        "chapter": 2,
+        "question": "¿Qué debes hacer con las luces neblineras cuando mejora la visibilidad?",
+        "options": [
+          "Mantenerlas encendidas todo el día",
+          "Reemplazarlas por luces altas",
+          "Usarlas para estacionar",
+          "Apagarlas"
+        ],
+        "answer_index": 3,
+        "explanation": "Las neblineras se usan solo con visibilidad considerablemente reducida y deben apagarse tan pronto mejore.",
+        "source": {
+          "path": "data/processed/chapters/cap-2.md",
+          "line": 491,
+          "quote": "tan pronto mejore la visibilidad."
+        }
       }
     ]
   }
