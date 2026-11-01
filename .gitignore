@@ -3,3 +3,8 @@ data/
 node_modules/
 .atl/
 .swp
+scripts/__pycache__
+# Track the canonical quiz bank while keeping other generated data ignored.
+!/src/data/
+/src/data/*
+!/src/data/quiz_questions.json

@@ -1,0 +1,12 @@
+{
+  "mcpServers": {
+    "assistant": {
+      "command": "/home/enoloops/go/bin/assistant",
+      "args": [
+        "mcp",
+        "--db",
+        "/home/enoloops/.local/assistant/db-src/app-conducir.db"
+      ]
+    }
+  }
+}

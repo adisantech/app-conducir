@@ -1,11 +1,27 @@
 import React, { useState } from 'react';
-import gamesSeed from '../../../data/games_seed.json';
+import quizQuestions from '../../../data/quiz_questions.json';
 import { QuizQuestion } from '../../../types/games';
 import { CheckCircle, XCircle, AlertCircle, ArrowRight, RotateCcw, Trophy } from 'lucide-react';
 import confetti from 'canvas-confetti';
 
+// Shuffle copies once per attempt, retaining the original correct option's identity.
+function prepareQuestions(): QuizQuestion[] {
+  return quizQuestions.map(question => {
+    const order = question.options.map((_, index) => index);
+    for (let i = order.length - 1; i > 0; i--) {
+      const j = Math.floor(Math.random() * (i + 1));
+      [order[i], order[j]] = [order[j], order[i]];
+    }
+    return {
+      ...question,
+      options: order.map(index => question.options[index]),
+      answer_index: order.indexOf(question.answer_index),
+    };
+  });
+}
+
 export const QuizGame: React.FC = () => {
-  const questions: QuizQuestion[] = gamesSeed.quiz.questions;
+  const [questions, setQuestions] = useState<QuizQuestion[]>(prepareQuestions);
   const [currentIndex, setCurrentIndex] = useState(0);
   const [selectedOption, setSelectedOption] = useState<number | null>(null);
   const [isAnswered, setIsAnswered] = useState(false);
@@ -40,6 +56,7 @@ export const QuizGame: React.FC = () => {
   };
 
   const restartQuiz = () => {
+    setQuestions(prepareQuestions());
     setCurrentIndex(0);
     setSelectedOption(null);
     setIsAnswered(false);
