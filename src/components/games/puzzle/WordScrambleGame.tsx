@@ -8,7 +8,7 @@ export const WordScrambleGame: React.FC = () => {
   const words = gamesSeed.puzzle.words;
   const [currentIndex, setCurrentIndex] = useState(0);
   const [currentPuzzle, setCurrentPuzzle] = useState<IScramble | null>(null);
-  const [userGuess, setUserGuess] = useState('');
+  const [userGuess, setUserGuess] = useState<string[]>([]);
   const [isCorrect, setIsCorrect] = useState(false);
   const [score, setScore] = useState(0);
   const [revealedIndices, setRevealedIndices] = useState<number[]>([]);
@@ -33,7 +33,7 @@ export const WordScrambleGame: React.FC = () => {
         clue: item.clue,
         scrambled,
       });
-      setUserGuess('');
+      setUserGuess(Array(item.word.length).fill(''));
       setIsCorrect(false);
       setRevealedIndices([]);
     },
@@ -46,19 +46,26 @@ export const WordScrambleGame: React.FC = () => {
 
   const handleLetterClick = (letter: string) => {
     if (isCorrect || !currentPuzzle) return;
-    if (userGuess.length < currentPuzzle.word.length) {
-      setUserGuess((prev) => prev + letter);
-    }
+    setUserGuess((prev) => {
+      const index = prev.findIndex((value) => !value);
+      return prev.map((value, i) => i === index ? letter : value);
+    });
   };
 
   const handleBackspace = () => {
     if (isCorrect) return;
-    setUserGuess((prev) => prev.slice(0, -1));
+    setUserGuess((prev) => {
+      // Hinted positions stay fixed; erase the last letter entered by the player.
+      let index = prev.length - 1;
+      while (index >= 0 && (!prev[index] || revealedIndices.includes(index))) index--;
+      return prev.map((value, i) => i === index ? '' : value);
+    });
   };
 
   const handleCheck = () => {
     if (!currentPuzzle) return;
-    if (userGuess.toUpperCase() === currentPuzzle.word) {
+    if (isCorrect) return;
+    if (userGuess.join('').toUpperCase() === currentPuzzle.word) {
       setIsCorrect(true);
       setScore((s) => s + 10);
       try {
@@ -80,6 +87,8 @@ export const WordScrambleGame: React.FC = () => {
     if (unrevealed.length > 0) {
       const nextIdx = unrevealed[0];
       setRevealedIndices((prev) => [...prev, nextIdx]);
+      setUserGuess((prev) => prev.map((value, i) =>
+        i === nextIdx ? currentPuzzle.word[i] : value));
     }
   };
 
@@ -136,10 +145,10 @@ export const WordScrambleGame: React.FC = () => {
 
         {/* User Input Slots */}
         <div className="flex justify-center gap-2 mb-6">
-          {currentPuzzle.word.split('').map((char, idx) => {
+          {currentPuzzle.word.split('').map((_, idx) => {
             const entered = userGuess[idx] || '';
             const isRevealed = revealedIndices.includes(idx);
-            const letterToShow = isRevealed ? char : entered;
+            const letterToShow = entered;
 
             return (
               <div
@@ -165,7 +174,7 @@ export const WordScrambleGame: React.FC = () => {
           <div className="flex items-center gap-2">
             <button
               onClick={handleBackspace}
-              disabled={isCorrect || userGuess.length === 0}
+              disabled={isCorrect || !userGuess.some((value, i) => value && !revealedIndices.includes(i))}
               className="px-3.5 py-2 rounded-xl bg-slate-700 hover:bg-slate-600 text-slate-200 text-xs font-semibold border border-slate-600 disabled:opacity-40 cursor-pointer"
             >
               Borrar
@@ -183,7 +192,7 @@ export const WordScrambleGame: React.FC = () => {
           {!isCorrect ? (
             <button
               onClick={handleCheck}
-              disabled={userGuess.length === 0}
+              disabled={!userGuess.some(Boolean)}
               className="px-6 py-2.5 rounded-xl bg-blue-600 hover:bg-blue-500 text-white text-xs font-bold shadow-md shadow-blue-600/30 disabled:opacity-40 cursor-pointer"
             >
               Comprobar
