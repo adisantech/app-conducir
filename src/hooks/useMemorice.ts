@@ -58,8 +58,11 @@ export function createMemoriceDeck(
       }
       const names = new Set<string>();
       const eligible = shuffled.filter(item => {
-        if (names.has(item.name)) return false;
-        names.add(item.name);
+        // Printed captions can differ only in spacing around a hyphen.
+        const answerKey = item.name.normalize('NFKC').toLocaleUpperCase('es')
+          .replace(/\s*-\s*/g, '-').replace(/\s+/g, ' ').trim();
+        if (names.has(answerKey)) return false;
+        names.add(answerKey);
         return true;
       }).slice(0, pairCount);
 
@@ -106,8 +109,17 @@ export function useMemorice(
   const [isPlaying, setIsPlaying] = useState<boolean>(false);
   const [isVictory, setIsVictory] = useState<boolean>(false);
   const isCheckingRef = useRef<boolean>(false);
+  const mismatchTimeoutRef = useRef<ReturnType<typeof setTimeout> | null>(null);
+
+  const clearMismatchTimeout = useCallback(() => {
+    if (mismatchTimeoutRef.current !== null) {
+      clearTimeout(mismatchTimeoutRef.current);
+      mismatchTimeoutRef.current = null;
+    }
+  }, []);
 
   const initGame = useCallback(() => {
+    clearMismatchTimeout();
     setCards(createMemoriceDeck(category, difficulty));
     setFlippedCards([]);
     setMatchedPairs([]);
@@ -116,7 +128,7 @@ export function useMemorice(
     setIsPlaying(false);
     setIsVictory(false);
     isCheckingRef.current = false;
-  }, [category, difficulty]);
+  }, [category, difficulty, clearMismatchTimeout]);
 
   // Timer
   useEffect(() => {
@@ -189,7 +201,8 @@ export function useMemorice(
           }
         } else {
           // NO MATCH -> flip back after delay
-          setTimeout(() => {
+          mismatchTimeoutRef.current = setTimeout(() => {
+            mismatchTimeoutRef.current = null;
             setCards((prev) =>
               prev.map((c) =>
                 newFlipped.includes(c.id) ? { ...c, isFlipped: false } : c
@@ -206,7 +219,8 @@ export function useMemorice(
 
   useEffect(() => {
     initGame();
-  }, [initGame]);
+    return clearMismatchTimeout;
+  }, [initGame, clearMismatchTimeout]);
 
   return {
     cards,
